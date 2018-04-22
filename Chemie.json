@@ -1,0 +1,2932 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb05c-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "11 Elektrochemie 1",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb060-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "latex-019e9892786e493964e145e7c5cf7b700314e53b.png",
+                "latex-3ead47fb9fb4a4c273feee398f72ff2a09702b84.png",
+                "latex-60e3c427d0b9670bd1910c93e671f62009bed3bc.png",
+                "paste-f3ab77f033c95c889d8904060f83223ed9331d39.jpg",
+                "latex-d3402e222097b40fe8504b820d4aac9bf2736f61.png",
+                "latex-c7b157e17af02b116b380409b6063823ba4045bc.png",
+                "latex-14f7ff6f7ff52ed6c5af3865ed43edbff9223c49.png"
+            ],
+            "name": "01 Einführung",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was sagt das Gesetz der Erhaltung der Masse aus? ",
+                        "Während einer chemischen Reaktion gibt es keine Veränderung der gesamt Masse.",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "kr4(iS@p$=",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Gesetz der konstanten Proportionen",
+                        "In einer Verbindung sind stets die gleichen Elemente im gleichen Massenverhältnis enthalten.",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "K8po3@eztW",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Gesetz der multiplen Proportionen",
+                        "Wenn zwei Elemente A und B mehr als eine Verbindung miteinander eingehen, dann stehen die Massen von A die sich mit den Massen von B verbinden in einem ganzzähligen Verhältnis zueinander.",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<br>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "H6t%]Nd;>l",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": [
+                        "marked"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Organische Chemie? ",
+                        "Die Chemie der Verbindungen des Kohlenstoffe. Der Begriff organisch kommt aus einer Zeit wo man dachte, dass nur Tiere und Pflanzen diese Stoffe erzeugen könnten.",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "v69uM:SwJz",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Anorganische Chemie",
+                        "Die Chemie aller Elemente außer Kohlenstoff (jedoch unter Einschluss einiger aus Mineralien gewinnbarer Kohlenstoffverbindungen)",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "cV-bPa>=Pa",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Analytische Chemie",
+                        "Die qualitative und quantitative Ermittlung der Zusammensetzung von Stoffen.",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "AD*]]BP>MB",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Physikalische Chemie",
+                        "Das Studium der physikalischen Prinzipien, die dem Aufbau und der Umwandlung von Stoffen zugrunde liegen.",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "GG92r7?uNX",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Biochemie",
+                        "Die Chemie die in den lebenden Organsimen abläuft und die Untersuchung der damit zusammenhängenden Substanzen.",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "J(P4.*{p<<",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Womit beschäftigen sich die Technische Chemie?",
+                        "Die Entwicklung von Verfahren und Apparaturen zur industriellen Herstellung von chemischen Produkten.",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<br>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "e`kvxV|#5(",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Edukt",
+                        "Alter Begriff für einen Stoff (eine Chemikalie), mit dem man eine chemische Reaktion durchführen will.&nbsp;<br><br>Der heutzutage für diese Bedeutung empfohlene Begriff lautet jedoch Reaktant oder auch Ausgangsstoff.",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<br>WS 15/16<div>Wikipedia Edukt</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "o9Z;d&|JU[",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie nennt man ein positiv geladenes Ion?",
+                        "Kationen",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "yr2L$>gfqf",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie nennt man ein negativ geladenes Ion?",
+                        "Anion",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "o%76T/Ba(E",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wodurch wird das chemische Verhalten der Atome bestimmt?",
+                        "Durch die Anzahl der Elektronen und deren räumlichen Verteilung in der Atomhülle.",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "k0b~kF%bx@",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was bedeutet [$]A[/$] bei der Bezeichnung des Kerns eines chemischen Elementes?",
+                        "[$]A[/$]: Nukleonenzahl / Massenzahl<br>Wird berechnet mit Protonenzahl + Neutronenzahl",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "M?K8r-GcE,",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was bedeutet [$]Z[/$] bei der Bezeichnung des Kerns eines chemischen Elementes?",
+                        "[$]Z[/$]: Kernladungszahl / Ordnungszahl<br>Entspricht der Anzahl der Protonen",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "F#{j7}WylC",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie ist die atomare Masseneinheit definiert?",
+                        "Eine atomare Masseneinheit (u) ist definiert als ein [$]1/12[/$] der Masse des Kohlenstoffatom [$]^{12} _6 C[/$].<br>[$]1u = 1,6606 \\cdot 10^{-27} kg[/$]",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<br>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "pX>0*Z?]tT",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": [
+                        "marked"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie heißt ein durch Protonenzahl und Neutronenzahl charakterisierte Atomsorte?",
+                        "Nuklid",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "cIBpYtCm=m",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie werden Nuklide mit gleicher Protonenzahl, aber verschiedener Neutronenzahl genannt?",
+                        "Isotope<br><br><div>Beispiel:</div><div><img src=\"paste-f3ab77f033c95c889d8904060f83223ed9331d39.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger<br/>Chemie für Physiker<br/>WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "lDhpc.(O3:",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist ein Reinelement?",
+                        "Ein chemisches Element bei dem nur ein&nbsp;einziges stabiles oder langlebiges Isotop existiert und das Isotop die gleichen Protonen- und Neutronenzahl hat. Beispielsweise Natrium, Beryllium, Fluor",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker,&nbsp;WS 15/16<br><div>https://www.wikiwand.com/de/Reinelement<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P`*3d9L;3%",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was sind Mischelemente?",
+                        "Mischelemente sind chemische Elemente bei denen mehrere Isotope mit unterschiedlichen Häufigkeiten existieren (H, Cl, O, C,..)",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "e+az!gw2Xx",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie berechnet man die mittlere Atommasse?",
+                        "Die Atommasse eines Elements ergibt sich aus den Atommassen der Isotope unter Einrechnung deren natürlicher Häufigkeiten. &nbsp;(in der Regel keine ganze Zahl)<br><br>Beispiel:<div>[latex]\\begin{table}[]&nbsp;</div><div>&nbsp; \\centering&nbsp;</div><div>&nbsp; \\begin{tabular}{lllll}&nbsp;</div><div>&nbsp; &nbsp; Neon &amp; $^{20}_{10}$ Ne &amp; $^{21}_{10}$&nbsp;Ne &amp; $^{22}_{10}$&nbsp;Ne &amp; Mittlere Atommasse \\\\ \\hline</div><div>&nbsp; &nbsp; Relative H\\\"aufigkeit &amp; 90,92\\% &amp; 0,26\\% &amp; 8,82\\% &amp; \\\\&nbsp;</div><div>&nbsp; &nbsp; Nuklidmasse (in u) &amp; 19,99244 &amp; 20,99395 &amp; 21,99138 &amp; 20,17135 &nbsp; &nbsp;\\end{tabular}&nbsp;</div><div>\\end{table}[/latex]</div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "v^j>1W_bI:",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie bestimmt man die Atommasse?",
+                        "Mithilfe der Massenspektrometrie werden beschleunigte geladene Teilchen (q/m) in einen magnetischen Feld getrennt.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "zU4k>?r{jR",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb0a6-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "08 Thermodynamik 1",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb0aa-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "09 Thermodynamik 2",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb0ae-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "latex-0a737670d481129e2ead6d7223437f3cf70ea53f.png",
+                "latex-755d09a92406a1788c9121b1bddafa834eb5d8f1.png",
+                "latex-866f0204648be9ca6b10e14dd72295295dd53a79.png",
+                "paste-ab45dfe63b71f3fd0153d10f50840d7b337f3d75.jpg",
+                "latex-845d4a12d7a287ff28e6e34dd310fdad8b026a4e.png",
+                "latex-ecabb14a435d6f4477dccaab68f8d92adb0336d1.png",
+                "paste-e5a11b4e19bc205a97997d8f9f84624e52e9ed35.jpg",
+                "paste-06ef62b0c977e78cdff0daeea037470612452823.jpg",
+                "latex-1f983622c867d3de1ead076ce0a96b3174fe85af.png",
+                "latex-31d62ea902aaaff46ee0b3e670a85ccd2a4c61fe.png",
+                "latex-fa2fa899f0afb05d6837885523503a2d4df434f9.png",
+                "paste-50462c081e3fc477b867041d7a2a130441341515.jpg",
+                "latex-c4948539c40eb9cb0b9175e7acf736adcf925116.png",
+                "latex-f5047d1e0cbb50ec208923a22cd517c55100fa7b.png",
+                "paste-c2289ce1b882a71d2943999bc32261188638f07a.jpg",
+                "latex-543ef1ef5667634dff51c54c7d7d7055226d2e8b.png",
+                "latex-0254defd0d7ec26ac027ffe73f7edab15bb7ca65.png",
+                "paste-14fdc25251c9b3bb90a5ed72c2caa643ec6916af.jpg",
+                "latex-3372c1cb6d68cf97c2d231acc0b47b95a9ed04cc.png",
+                "latex-3a723b6cc5187ef5a94cf00648cfed7172924f5b.png",
+                "latex-bb2c93730dbb48558bb3c4738c956c4e8f816437.png",
+                "latex-cd4d7b43b119aa0c4789ee8451f7648c554a2e20.png",
+                "latex-aa943b666f1f4abc1306b12e9e4af5f72d7ea6c3.png",
+                "latex-8189a5b5a0917b8c93350827be4038af1839139d.png",
+                "latex-0c3fcb91e7401d48e08211691069cf7c8cd8d89b.png",
+                "latex-731145604c544a58f975f55a2a5e1b19f157bf59.png",
+                "latex-7d7adfa6b6d2471158c93359443282c43448c517.png",
+                "latex-de071aa6568ee034367d984e5480a1d89f2d6eac.png",
+                "latex-4a3fff0ee1138ef962b696c35e16cc1145d25b7e.png",
+                "latex-90bdee26a1d1c84be824c97e7907e45052400920.png",
+                "latex-ebcd7e411d704874ce2dd7d9be9d3efea5304395.png",
+                "latex-859e562187189147d1cff299f6a4cfce431eca8f.png",
+                "latex-ce4588fd900d02afcbd260bc07f54cce49a7dc4a.png",
+                "latex-0e627ec96e7fdd2134a77f6f55d4da242495db1b.png",
+                "latex-36bb5644687e154a7b54ef2cc6af2523a99a757b.png",
+                "latex-b13f21416d84e13708696f34dea81026cda583c9.png",
+                "latex-ea869ef5b8363ca38e6029f5cb8c6c3f8166c0f2.png",
+                "latex-eff6eceb6799fb03a64956b90c847c29f29ab9ae.png",
+                "latex-0d9c3b1c142cbd3f8217dabc160c57e4750df241.png",
+                "latex-3598c3ae50acdb8e7a69204a1019cea9d0135475.png",
+                "latex-d2d555989ace74d9852b74cc85839087fccd06c5.png",
+                "latex-1f3cc0ad966b3e637cd199607cbf0d1befc0e491.png",
+                "latex-f3dc0a769acf715819a3a516ea7f273edf780828.png",
+                "latex-0678e85c9374aaebeb3099f934cb8a7e452c75da.png",
+                "latex-72f4c8087298236327cbf4eed49b49caa40d5b58.png",
+                "latex-b55ca7a0aa88ab7d58f4fc035317fdac39b17861.png",
+                "latex-9b25f8e64b484493fda944d25cad453423041fe6.png",
+                "latex-174fadd07fd54c9afe288e96558c92e0c1da733a.png",
+                "paste-1112b8554e9b4ff964a5cd32259943c0a8d9b0ce.jpg",
+                "latex-a9ad921f7cb55d2bbd7508457d975df047f897cf.png",
+                "latex-a3a59bb1293ee3f6dec19de4019a7178874219ae.png",
+                "latex-f37bba504894945c07a32f5496d74299a37aa51c.png",
+                "latex-a4ce15d27fd645dd7957a1584f32481e51fcccfd.png",
+                "latex-c7e2f63418ff5223a86aaa1d89807dfb5ee5d880.png",
+                "latex-3bf95f56d921e98cafde023e9d0903a3b500ec98.png",
+                "latex-a48124b7293c9b2967a3076cef62f3d38d4156f3.png",
+                "latex-6afe4ba31013d66050e521ecb921eed60acddac2.png",
+                "paste-ede9bbed685d7eb653269aa5f064b028ea419822.jpg",
+                "latex-859ccf4cd60c7bc6b8fa1afc9a42dc811a826d6f.png",
+                "latex-a9f23bf124b6b2b2a993eb313c72e678664ac74a.png",
+                "latex-488d27ccaeae612eb1fef3320b0dd7aca15d1f4b.png",
+                "latex-0d3cbf9ab1e976e485e5a8b8459491ffa0b561dc.png",
+                "latex-62f62a19f0425d8e6121ca0c1cfd3ce96e43c9c5.png",
+                "latex-a5cb23e982542130d6294b19f4b53f84419b3ab3.png"
+            ],
+            "mid": "1521646860256",
+            "name": "02 Atomaufbau",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was befindet sich im Mittelpunkt des Rutherfordsches Atommodells?",
+                        "Im Mittelpunkt des Atoms befindet sich der Atomkern. Der Atomkern beinhaltet die gesamte positive Ladung und fast die gesamte Masse des Atoms.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "djm:L~Pf#|",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wo sind die Elektronen im&nbsp;Rutherfordsches Atommodell?",
+                        "Die Elektronen befinden sich außerhalb des Atomkerns und umkreisen ihn in schneller Bewegung. (Nicht auf festen Bahnen)<br>Die Elektronen nehmen fast das gesamte Volumen des Atoms ein.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Lh.8HQb9m-",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie groß ist der Radius des Atoms im&nbsp;Rutherfordsches Atommodell?",
+                        "Der Radius des Atoms ist ca. 3000 mal größer als der Atomkern.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "v7,yjQpvWS",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie wird das erste Atommodell genannt?",
+                        "Thomsonsches Atommodell",
+                        "Wikipedia Thomsonsches Atommodell"
+                    ],
+                    "flags": 0,
+                    "guid": "d=``#snvqM",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht ein Atom nach dem&nbsp;thomsonsche Atommodell aus?",
+                        "Das Atom besteht aus einer gleichmäßig verteilten, positiven Masse in der sich die negativ geladenen Elektronen bewegen.",
+                        "Wikipedia Thomsonsches Atommodell"
+                    ],
+                    "flags": 0,
+                    "guid": "cnvXlj^<$X",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Grundzustand der Elektronen im&nbsp;Thomsonsches Atommodell?",
+                        "Im Grundzustand sind die Elektronen so verteilt, dass ihre potentielle Energie minimal ist. Werden sie angeregt, beginnen sie zu schwingen.",
+                        "Wikipedia Thomsonsches Atommodell"
+                    ],
+                    "flags": 0,
+                    "guid": "Fy,sgb97J(",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was kann mit Balmer-Serie berechnet werden?",
+                        "Mithilfe der Balmer-Serie&nbsp;kann man die Wellenlänge berechnen, die bei Wasserstoff entsteht, wenn ein Elektron von einer Bahn in die zweite Bahn fällt.",
+                        "TheSimplePhysics Balmer Formel / Balmer Serie"
+                    ],
+                    "flags": 0,
+                    "guid": "fQ$GFl35g,",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie berechnet man die Wellenlänge von einer Relaxition bei Wasserstoff von der 3. zur 2. Bahn?",
+                        "Mithilfe der Balmer-Serie&nbsp;kann die Wellenlänge ausgerechnet werden.<br>[$]\\frac{1}{\\lambda} = R ( \\frac{1}{2^2}-\\frac{1}{n^2})[/$]<div>[$]R = 1,097 \\cdot 10^7 m^{-1}[/$]:&nbsp;Rydberg-Konstante<br></div><div>[$]\\lambda[/$]: Wellenlänge<br></div><div>[$]n[/$]: Die Bahn von der relaxiert wird (Hauptquantenzahl)<br></div><div><br></div><div>[$]\\frac{1}{\\lambda} = R ( \\frac{1}{2^2}-\\frac{1}{3^2})[/$]<br></div><div>[$]\\lambda = 656,7nm[/$]<br></div>",
+                        "TheSimplePhysics Balmer Formel / Balmer Serie"
+                    ],
+                    "flags": 0,
+                    "guid": "ke.s*{Xq3c",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Woher kommt die Balmer-Serie?",
+                        "Die Balmer-Serie ist eine empirische Gleichung zur Berechnung der Frequenzen und wurde 1885 von J. J. Balmer ohne Kenntnis über den Atomaufbau aufgestellt.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "Lh2Cc?3/UP",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was besagt das erste Bohr'sche Postulat?",
+                        "Das Elektron bewegt sich nicht auf beliebigen, sondern auf diskreten Kreisbahnen.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "d|9KhW>M)H",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was besagt das zweite Bohr'sche Postulat?",
+                        "Der Bahndrehimpuls&nbsp;[$]m \\cdot v \\cdot r[/$] des Elektrons ist ein Vielfaches der Grundeinheit&nbsp;[$]\\hbar = h/2 \\pi[/$](reduzierte Planckkonstante) mit&nbsp;[$]h = 6,6262 \\cdot 10^{-34}Js[/$] (Planck'sches Wirkungsquantum)",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "r>XvR.W[L!",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was besagt das dritte Bohr'sche Postulat?",
+                        "Das Elektron kann von einer Bahn mit hoher potentieller&nbsp;[$]E_n[/$] auf eine Bahn mit geringerer potentieller Energie&nbsp;[$]E_m[/$] springen; unter Aussendung von Strahlung der Energie&nbsp;[$]h_v[/$]",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "IZj;e;.U9/",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welchen Zusammenhang besteht zwischen dem Radius einer Bahnschale und der Hauptquantenzahl der Bahn nach dem Bohr'schen Atommodell?",
+                        "[$]r \\propto n^2[/$]<div>[$]r[/$]: Radius zur Schale<br></div><div><div><div>[$]n[/$]: Hauptquantenzahl</div></div><div><br></div><div>Beweis:<br><img src=\"paste-ab45dfe63b71f3fd0153d10f50840d7b337f3d75.jpg\"><br></div></div><div>Für ein stabilen Zustand muss die Coulombkraft [$]F_C[/$] gleich der Zentrifugalkraft [$]F_{Zf}[/$]&nbsp;sein.</div><div>[latex]</div><div>\\begin{align}</div><div>&nbsp; F_C &amp;= F_{Zf} \\nonumber\\\\</div><div>&nbsp; \\frac{1}{4 \\pi \\epsilon_0} \\cdot \\frac{Z e^2}{r^2} &amp;= \\frac{m_e v^2}{r}</div><div>\\end{align} &nbsp;<br></div><div>$Z$: Ladungszahl, $Z = 1$ f\\\"ur Wasserstoff</div><div>[/latex]</div><div><br></div><div>Das zweite Bohr'sche Postulat nach [$]v[/$] umformen.</div><div><div>[latex]</div><div>\\begin{align}</div><div>&nbsp; mvr &amp;= n \\frac{h}{2\\pi} \\nonumber \\\\</div><div>&nbsp; v &amp;=&nbsp;n \\frac{h}{2\\pi} \\frac{1}{m r} \\tag{2}</div><div>\\end{align}</div><div>$n = 1,2,3$..., $n = 1$ f\\\"ur Wasserstoff</div><div>[/latex]</div></div><div><br></div><div>Gleichung&nbsp;[$](1)[/$] in Gleichung [$](2)[/$] einsetzen.</div><div><div>[latex]</div><div>\\begin{align}</div><div>&nbsp; \\frac{1}{4 \\pi \\epsilon_0} \\frac{z e^2}{r^2} &amp;= \\frac{m_e (n \\frac{h}{2\\pi} \\frac{1}{m r})^2}{r} \\nonumber\\\\</div><div>\\frac{1}{4 \\pi \\epsilon_0} \\frac{z e^2}{r^2} &amp;= \\frac{m_e n^2 h^2}{4 \\pi^2 r^3 {m_e}^2}\\nonumber\\\\ &nbsp; r &amp;= \\frac{h^2 \\epsilon_0}{\\pi m_e e^2} n^2&nbsp;\\nonumber</div><div>\\end{align}</div><div>[/latex]</div></div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "w}l),mj@(_",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie hängt die Energie des Elektrons mit der Hauptquantenzahl nach dem Bohr'schen Atommodell zusammen?",
+                        "[$]E_n \\propto \\frac{1}{n^2}[/$]<br><div><br></div><div><div>Beweis:</div><div>Für die Energie des Elektrons gilt:</div><div>[latex]</div><div>\\begin{align}</div><div>&nbsp; E &amp;= E_{kin} + E_{pot} \\nonumber\\\\</div><div>&nbsp; E &amp;= \\frac{m_e v^2}{2} - \\frac{e^2}{4 \\pi \\epsilon_0 r} \\nonumber</div><div>\\end{align}</div><div>[/latex]<br></div><div><br></div></div><div><div>Mit dem zweiten Bohr'schen Postulat gilt: (siehe \"Wie hängt die Energie der Elektronen mit der Hauptquantenzahl im Bohr'schen Atommodell zusammen?)</div><div>[$]m v r = n \\frac{h}{2 \\pi}[/$] und&nbsp;[$]r = \\frac{h^2 \\epsilon_0}{\\pi m_e e^2} n^2[/$]<br></div><div><br></div></div><div><div>Mit den Gleichungen ergibt sich schließlich:</div><div>[latex]</div><div>\\begin{align}</div><div>&nbsp; E &amp;= E_{kin} + E_{pot} \\nonumber\\\\</div><div>&nbsp; E &amp;= \\frac{m_e \\cdot (n \\frac{h}{2\\pi} \\frac{1}{r m_e})^2}{2}&nbsp;- \\frac{e^2}{4\\pi \\epsilon_0 (\\frac{\\epsilon_0 n^2 h^2}{e^2 m_e \\pi})}\\nonumber\\\\</div><div>&nbsp; E &amp;= \\frac{m_e n^2 h^2}{8 \\pi^2 r^2 m_e^2}&nbsp;- \\frac{e^4 m_e \\pi}{4 \\pi {\\epsilon_0}^2 n^2 h^2}\\nonumber\\\\</div><div>&nbsp; E &amp;= \\frac{n^2 h^2}{8 \\pi^2 r^2 m_e} - \\frac{e^4 m_e}{4 {\\epsilon_0}^2 n^2 h^2}\\nonumber\\\\</div><div>&nbsp; E &amp;= \\frac{n^2 h^2}{8 \\pi^2 {(\\frac{h^2 \\epsilon_0}{\\pi m_e e^2} n^2)}^2 m_e} - \\frac{e^4 m_e}{4 {\\epsilon_0}^2 n^2 h^2}\\nonumber\\\\</div><div>&nbsp; E &amp;= &nbsp;\\frac{n^2 h^2 e^4 {m_e}^2 \\pi^2}{8 \\pi^2 {\\epsilon_0}^2 n^4 h^4 m_e} -&nbsp;\\frac{e^4 m_e}{4 {\\epsilon_0}^2 n^2 h^2}\\nonumber\\\\</div><div>&nbsp; E &amp;= &nbsp;\\frac{e^4 m_e}{8 {\\epsilon_0}^2 n^2 h^2} -&nbsp;\\frac{e^4 m_e}{4 {\\epsilon_0}^2 n^2 h^2}\\nonumber\\\\</div><div>&nbsp; E &amp;= -\\frac{e^4 m_e}{8 {\\epsilon_0}^2 n^2 h^2}\\nonumber</div><div>\\end{align}</div><div>[/latex]</div></div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "qXmn_p!K@v",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie berechnet man die die Wellenlänge, die bei Wasserstoff entsteht, wenn ein Elektron von einer Bahn in die zweite Bahn fällt mithilfe der Bohr'schen Atommodells?",
+                        "<div>Das 3. Bohr'sche Postulat sagt aus:</div><div>Das Elektron kann von einer Bahn mit hoher potentieller Energie [$]E_n[/$] auf eine Bahn mit geringerer potentieller Energie&nbsp;[$]E_m[/$] springen; unter Aussendung von Strahlung der Energie [$]hf[/$].</div><div>[$]h[/$]:&nbsp;Plancksche Wirkungsquantum<br></div><div>[$]f[/$]: Frequenz<br></div><div><br></div><div>Mit den Ergebnisse von \"Wie hängt die Energie des Elektrons mit der Hauptquantenzahl nach dem Bohr'schen Atommodell zusammen?\"</div><div>[$]E = -\\frac{e^4 m_e}{8 {\\epsilon_0}^2 n^2 h^2}[/$] wird nun die gleiche Wellenlänge, wie auch bei der Balmer-Serie, berechnet.</div><div><div><div><br></div><div>[latex]</div></div></div><div><div>\\begin{align}</div><div>&nbsp; h f &amp;= E_{n} + E_{m} \\nonumber\\\\</div><div>&nbsp; f &amp;= \\frac{e^4 m_e}{8 {\\epsilon_0}^2 h^3} (\\frac{1}{m^2} - \\frac{1}{n^2}) \\nonumber</div><div>\\end{align}</div><div>[/latex]</div></div><div><br></div><div>Mithilfe des Zusammenhanges von&nbsp;[$]\\lambda = \\frac{c}{f}[/$] kann nun die Wellenlänge ausgerechnet werden, wobe&nbsp;[$]c[/$] die Phasengeschwindigkeit (Lichtgeschwindigkeit) ist.</div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "pa5!=JzI`$",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was kann das Bohr'sche Atommodell nicht erklären?",
+                        "Die Emissionsspektren von Vielelektronensystem können nicht erklärt werden. Dafür ist ein neues Konzept notwendig, dass Orbitalmodell.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "d=/dd@=np{",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wodurch wird der Zustand eines Systems vollständig in der Quantenmechanik beschrieben?",
+                        "Durch eine Funktion&nbsp;[$]\\Psi (r_1, r_2, ..., t)[/$], der Zustandsfunktion oder Wellenfunktion mit den Koordinaten r1, r2, ... aller Teilchen des System Systems und der Zeit t.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "l|4^>RDX})",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Warum gibt es in der Quantenmechanik diskrete Energieniveaus?",
+                        "Da die Teilchen auch Wellen sind und nur zu bestimmten diskreten Energieniveaus stabile Zustände existieren (stehende Wellen)<div><img src=\"paste-06ef62b0c977e78cdff0daeea037470612452823.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "E}+`r^|DiH",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie lautet die Schrödinger Gleichung?",
+                        "[$$]\\hat{H} \\Psi = E \\Psi[/$$]<div>[$]\\hat{H}[/$]: Hamiltonoperator</div><div>[$]\\Psi[/$]: Wellenfunktion<br></div><div>[$]E[/$]: Energieeigenwert (Zahl)<br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "uEcOt~`*L9",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie berechnet man die Aufenthaltswahrscheinlichkeit des Elektrons?",
+                        "Mithilfe der Schrödinger Gleichung, dann ist die Aufenthaltswahrscheinlichkeit gegebn durch&nbsp;[$]|\\Psi|^2[/$].",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "yVRgHM-_{U",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie lautet die Formel zum Hamiltonoperator?&nbsp;[$]\\hat{H}[/$]",
+                        "[$$]\\hat{H} \\Psi = - \\frac{\\hbar^2}{2m}\\Delta \\Psi - \\frac{ze^2}{r} \\Psi[/$$]<div>[$]\\hbar[/$]: Reduzierte Planckkonstante<br></div><div>[$]m[/$]: Masse<br></div><div>[$]\\Delta[/$]: 2. Ableitung<br></div><div>[$]z[/$]: ?<br></div><div><div>[$]e[/$]: ?<br></div></div><div>[$]r[/$]: ?<br></div><div><br></div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "j6+:,x_Y|T",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wodurch wird ein Orbital in der Quantenmechanik bestimmt?",
+                        "Ein Orbital wird durch die drei Quantenzahlen [$]n[/$], [$]l[/$] und [$]m[/$].",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "-T8yOk!ro",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wodurch wird ein Zustand eines Elektrons in der Quantenmechanik bestimmt?",
+                        "Der Zustand eines Elektrons wird durch die vier Quantenzahlen&nbsp;[$]n[/$],&nbsp;[$]l[/$],&nbsp;[$]m[/$] und&nbsp;[$]s[/$] bestimmt.<div>[$]s[/$] beschreibt den Spin (Eigendrehimpuls) des Elektrons.<br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "E]eKky|3i4",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was sagt die Hauptquantenzahl [$]n[/$] in der Quantenmechanik aus?",
+                        "Die Hauptquantenzahl n ergibt sich aus dem Bohr'schen Atommodell und beschreibt die <b>Orbitalgröße</b>.<div><br></div><div>n wird auch als die Schale bezeichnet, du der ein Elektron gehört.</div><div>Bezeichnungen der Schalen: K, L, M, ...</div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "f~/aG2^cVT",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was beschreibt die Nebenquantenzahl&nbsp;[$]l[/$] in der Quantenmechanik?",
+                        "Jede Schale kann in Unterschalen aufgeteilt werden.<br>Die Unterschalen werden durch die Nebenquantenzahl [$]l[/$] dargestellt.<div>Die Nebenquantenzahl legt den Betrag des Drehimpulses&nbsp;[$]L[/$] fest (Orbitalgestalt).<br>[$$]L = \\frac{h}{2\\pi} \\sqrt{l(l+1)}[/$$]<br></div><div>[$]l[/$] kann die Werte 0,1, .. , n-1 annehmen.</div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "d{~!j36Q&d",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wann gelten Orbitale in der Quantenmechanik als entartet?",
+                        "Bei Abwesenheit eines Magnetfeldes besitzen alle Orbitale einer Unterschale die gleiche Energie -&gt; Sie sind entartet",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "xhP@Ed6MV3",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was beschreibt die magnetische Quantenzahl&nbsp;[$]m[/$] in der Quantenmechanik?",
+                        "Die magnetische Quantenzahl&nbsp;[$]m_l[/$] legt die Orientierung des (Bahn-)drehimpulses (Orientierung der Orbitale) in einem äußeren Magnetfeld fest (Zeeman-Effekt).<br><br>Die Anzahl der Orientierungen ist&nbsp;[$]2l + 1[/$],&nbsp;[$]m = -l, ... , -2, -1, 0, 1, 2, ..., l[/$]<div><br></div><div><img src=\"paste-14fdc25251c9b3bb90a5ed72c2caa643ec6916af.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "AP32?>U.k9",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was beschreibt die Spinquantenzahl&nbsp;[$]s[/$] oder&nbsp;[$]m_s[/$] in der Quantenmechanik?",
+                        "Die Spinquantenzahl&nbsp;[$]s[/$] oder&nbsp;[$]m_s[/$] legt die Orientierung des Elektronenspins in einem äußeren Magnetfeld fest (Drehsinn des Elektrons)<div><br></div><div>Da das Elektron ein Spin&nbsp;[$]1/2[/$] Teilchen (Fermionen) ist, sind die möglichen Werte von&nbsp;[$]s = -1/2, +1/2[/$].</div><div><img src=\"paste-1112b8554e9b4ff964a5cd32259943c0a8d9b0ce.jpg\"><br></div><div>In einem Orbital können sich maximal zwei Elektronen aufhalten. Sie müssen jedoch einen entgegengesetzen Spin haben.<br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "tB^<j?y3N7",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Was sagt dieses Bild in der Quantenmechanik von Orbitalen aus?<br><img src=\"paste-50462c081e3fc477b867041d7a2a130441341515.jpg\"><br></div>",
+                        "Die Kugel beschreibt Bereiche des Raumes, in denen sich das Elektron mit 90%iger Wahrscheinlichkeit aufhält.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "l2.xW!d)sm",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": [
+                        "marked"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht das s-Orbital in der Quantenmechanik aus?",
+                        "<img src=\"paste-e5a11b4e19bc205a97997d8f9f84624e52e9ed35.jpg\">",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "t+XPMQ=V0-",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht das p-Orbital in der Quantenmechanik aus?",
+                        "<img src=\"paste-c2289ce1b882a71d2943999bc32261188638f07a.jpg\"><br><div>Die Indizes +- beziehen sich auf die Wellenfunktion.</div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "pK!tCM;93&",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht das d-Orbital in der Quantenmechanik aus?",
+                        "<img src=\"paste-ede9bbed685d7eb653269aa5f064b028ea419822.jpg\">",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "LJEB0CDKV)",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb112-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "latex-5aa358031a601180d7d265986740b56ace37529a.png",
+                "paste-670e564e79ebac0c19e068d0b1d7fdc7c15aa339.jpg",
+                "latex-e93858a081ac72c52149cb58aa516c80e47f4bd8.png",
+                "latex-438bed0c0dd633dfe62d6291762beee44f14118c.png",
+                "latex-a0626c44c66176b0a2005883f6d170f0ea6b3891.png",
+                "paste-5586d44aeb693c7dd5f09ca5d68ce5d6dcf51d14.jpg",
+                "latex-b8008f0ed2b8033e53c6cee9db5b61e19a44c853.png",
+                "320px-Propan_Lewis.svg.png",
+                "latex-b30d9785eaf49ed8fb90c7a1768cfd1a9cc37a5a.png",
+                "320px-Propan_Struktur.svg.png",
+                "latex-c9c788805cf818e18813cb4728fd40df3d2772c4.png",
+                "latex-ac7e292204c8010d434826fc553b8bb6c82e27d2.png",
+                "latex-a0ede511ee9f0916d2cc33dc82b7d94452d6cd01.png",
+                "latex-6d220463f2833bdbe2b8dfd8b96ab5939a68a335.png",
+                "latex-1180e151fcef21b262911d99e563ec41e1442d86.png",
+                "latex-381723a981ea818da6d459f1ff7b1388b4eaa7b7.png",
+                "paste-987c83602458917eb45727df6c41e86687e34231.jpg",
+                "paste-fb79ba539f370f618047b5b6bebf8e37ace85daa.jpg",
+                "latex-bf0431aa5bfbdf9f0b07f69d7dcea5ecbff9e81e.png",
+                "latex-50343873745f5252d08eb053afc3feeab6cb7395.png",
+                "latex-8c09138b501946657ac5e257e07d2e785fc7aeb6.png",
+                "latex-aa54ddad917fcc74d2d791bc86143f3766a78932.png",
+                "latex-4cfd86811e6bacc58cf75f5df50a84956fa09f9b.png",
+                "paste-c19bcea5944a99c09dd09a5de39426cb74c13692.jpg",
+                "latex-4bc69ac42619c886c6545793676060fdd496bcce.png",
+                "kochsalz.png",
+                "latex-48e1d3023f2e9191569267bbaa8bed5b23cae462.png",
+                "paste-21a9aabfb1b54ebc130491f970f4d6b9fb9e511e.jpg",
+                "latex-34f40d63bb7e0815deddd9a45b4bb5af00d4b0f0.png",
+                "latex-d5e72308e8132e278edaec39bafb836ef52b34ad.png",
+                "latex-49fc3878637c4730c65e3ce034f01db0a4ad777c.png",
+                "KovalenteBindung.png",
+                "paste-bfe15251aac3f8bb9d07d5f173b939051f93740c.jpg",
+                "paste-574d76c98f0492768c57b6e402531f3a4a303e51.jpg",
+                "latex-51285b905539e1b9e93d0b04583e830df428dd93.png",
+                "paste-e98832235dadc63c942048166a82ad1ec81a0dbd.jpg",
+                "latex-bd2631d8da165489c8486512ab987a31f726b734.png",
+                "latex-706d001d3853fcc105c959f470d82faddc6be1e3.png",
+                "latex-c7724a8789c17110407278e8014b2ae11a096a6d.png",
+                "latex-7106e8e55f82e5270a9502b14d0ad565ce019380.png",
+                "latex-78aa5504ddc288a4dbe75e8f9460c408a614eb71.png",
+                "latex-08981b330549e37012100e50d41049882a763eac.png",
+                "latex-e788513e655cabdb6a9fb3a507aff7d6c9b5deee.png",
+                "latex-d9c93b78cc83b7a57375fe4025ef14b3929df26a.png",
+                "latex-f82541f344a62113e3396bfa47147208a48fe0c6.png",
+                "latex-cbe083374191fe285f63b4c924f98ac7ed1af795.png",
+                "320px-Sp3-Orbital.svg.png",
+                "paste-9f9c9f67f67986d0188e70e56e74518feb736a02.jpg",
+                "latex-75e8180c7bf52a9207978ac45f0816bc05d752ec.png",
+                "latex-4dbbef1b087149d679b9488f42cafb234e2b561c.png",
+                "latex-58dcf4b468b19bb806436dd3baed0632093494f2.png",
+                "latex-9f47a55c187d1bd1aa6a33e3eb3f6418e6edda34.png",
+                "latex-c2239752b37cb49bb182e02064cf68340b9a5480.png",
+                "latex-5a481398a0e7c2f365b5a2d3050ac8fd110d962e.png",
+                "320px-Propan_Elektronenformel.svg.png",
+                "latex-d1c284f7fe1aa9d2328d8a1b722b41c92418d3e7.png",
+                "latex-d7287ae2afeb2338f8aaed038462d627267b9ef8.png",
+                "latex-6b1a13a64d8db1d28c288f1323e30b17a7e0da6a.png",
+                "latex-01f40f6744c0b309724d8d0c716d5dea3a069f31.png",
+                "latex-2894b35f595965f90a3469178bf4502c43d57017.png",
+                "latex-af6426ff4e0b2642fd2cad004d233f65cea37e85.png",
+                "320px-Propan_Skelettformel.svg.png",
+                "latex-b7908128d870958acff064e4b3e2d2388e41496e.png",
+                "latex-a3738c200057a5b4f30c125fc540864b114bf027.png",
+                "latex-f37150226d13c131e72c92126b23c695095bbfd2.png",
+                "latex-425b05fa8bbf3a05d660e684f7fe1b1744dcae46.png",
+                "latex-2c556a08c3ade8a18291c69929a50dfd1e40a10f.png",
+                "paste-38e4c9d6413817232d237562e6aaceb21a4a67c3.jpg",
+                "latex-2bffa15dd6673a632cfacf01c7a131bec18df7ba.png",
+                "NH3-BF3-adduct-bond-lengthening-2D.png",
+                "latex-2dc5b4c9b18d60856b8101b88279f9664e81b4d3.png",
+                "paste-232bf556a07fff954b292c32be64a68f449c49ea.jpg",
+                "latex-a8f1b0f8b8a8081e1a3e09f1615256758a70a98f.png",
+                "latex-d4563ad8c3bc2ead402d6ffc50768b0269bf073a.png"
+            ],
+            "mid": "1521646860256",
+            "name": "04 Chemische Bindung",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Arten von chemischen Bindungen existieren?",
+                        "<b>Ionenbindung</b>: Elektronen eines Atoms gehen vollständig auf das andere Atom über ([$]A^+B^-[/$])<div><b>Kovalente Bindung</b>: Beide Atome teilen sich gemeinsame Elektronen ([$]CL-CL[/$])</div><div><b>Metallische Bindung</b>: Zahlreiche Atome teilen sich ein gemeinsames Elektronengas ([$]M^+e^-[/$])&nbsp;</div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "uUQ!=2[Rp>",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Okteregel?",
+                        "Jedes Atom der Hauptgruppen tendiert zu 8 Valenzelektronen. (Edelgaskonfiguration)",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": ":vr+NC/lU",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Bilden Metalle Kationen oder Anionen?",
+                        "Metalle bilden Kationen.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "zw<3Zi{f.(",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Bilden nicht Metall Kationen oder Anionen?",
+                        "Nicht Metalle bilden Anionen.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "Dz.H0AZ1j@",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Woraus ist ein Ionenkristall aufgebaut?",
+                        "Eine aus Ionen aufgebaute Verbindung besteht aus Kationen und Anionen, die im festen Zustand zu einem geordneten Ionenkristall aufgebaut sind.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "OL?PLeqdg1",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was hält einen Ionenkristall zusammen?",
+                        "Jedes Kation ist von Anionen umgeben und umgekehrt.<div>Elektrostatische Anziehung hält den Kristall zusammen.</div><div>Die Formel einer Ionenverbindung gibt das kleinste ganzzählige Verhältnis zwischen Kationen und Anionen an, so dass der Kristall insgesamt elektrischd neutral ist.</div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "q>SB<8,W1U",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Koordinationszahl (KZ)?",
+                        "Die Koordinationszahl (KZ) gibt die Zahl der nächsten Nachbarionen um ein Ion an.&nbsp;",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "kuE)-y@uv-",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist ein Salz?",
+                        "Als ein Salz bezeichnet man Verbindungen, die aus Anionen und Kationen aufgebaut sind.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "I]#dg-HAwI",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist Kochsalz?",
+                        "Kochsalz ist Natriumchlorid<div>[latex]\\ce{Na + Cl -&gt; Na^+Cl^-}[/latex]</div><div>[latex]KZ(\\ce{Na^+}) = 6[/latex]</div><div>[latex]KZ(\\ce{Cl^-}) = 6[/latex]</div><div><img src=\"kochsalz.png\"><br></div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "_&_Yg!!HJ",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Gitterenergie?",
+                        "Beim Zusammenführen von weit entfernen im Gaszustand befindlichen positiven und negativen Ionen zu einem Kristall wird die Gitterenergie frei.<div><img src=\"paste-232bf556a07fff954b292c32be64a68f449c49ea.jpg\"><br></div><div>Je höher die Ionenladung, desto größer ist die freiwerdende Gitterenergie.</div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "MHI#B1.y))",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Bindung entsteht bei einer Reaktion von Metallen und Nicht Metallen?",
+                        "Bei einer Reaktion von Metallen mit Nicht Metallen entsteht eine <b>Ionenbindung</b>,&nbsp;weil das Metall ein Elektron abgibt und das Nicht Metall ein Elektron aufnimmt.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "D6Zi`Af;bO",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Bindung entsteht wenn zwei Nicht Metalle miteinander reagieren?",
+                        "Wenn zwei Nicht Metall miteinander reagieren, kommt es nicht zu einer Übertragung von Elektronen, weil beide dazu tendieren Elektronen auzunehmen. Die Atome binden sich aneinander über Elektronen, die Ihnen gemeinsam gehören. Es kommt zu einer <b>kovalenten Bindung</b>.",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "C}Igr>5#LV",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Woraus besteht eine eine Kovalente Einfachbindung?",
+                        "Eine kovalente Einfachbindung besteht aus einem Paar von Elektronen, das zwei Atomen gemeinsam gehört.<div><br></div><div>Beispiel: Bindung zwischen zwei Wasserstoffatomen</div><div>[latex]\\ce{\\Lewis{0.,H} + \\Lewis{0.,H}&nbsp;-&gt; H - H}[/latex]<br></div><div><img src=\"KovalenteBindung.png\"><br></div>",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "vrKRy9G{AN",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist eine Strukturformel in der Chemie?",
+                        "<div>Der Begriff <b>Strukturformel</b> stellt in der Chemie einen Sammelbegriff für chemische Darstellungsweisen dar, die Information darüber liefern, wie Atome in einem Molekül verbunden und im Raum angeordnet sind.</div>",
+                        "Wikipedia Strukturformel"
+                    ],
+                    "flags": 0,
+                    "guid": "OWd_&~^_:3",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Strukturformeln gibt es?",
+                        "Es gibt die <b>Elektronenformel</b><div><img src=\"320px-Propan_Elektronenformel.svg.png\"><br></div><div>, die <b>Valenzstrichformel</b></div><div><img src=\"320px-Propan_Lewis.svg.png\"><br></div><div>, die <b>Keilstrichformel</b>&nbsp;</div><div><img src=\"320px-Propan_Struktur.svg.png\"><br></div><div>und die <b>Skelettformel</b><img src=\"320px-Propan_Skelettformel.svg.png\"><br></div><div><br></div><div>.</div><div>Das Beispiel ist Propan.</div>",
+                        "Wikipedia Elektronenformel"
+                    ],
+                    "flags": 0,
+                    "guid": "Q@oC=Ft.@:",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die 8-N Regel?",
+                        "Nicht Metalle (der Hauptgruppe N) bilden 8-N (2-N für H) kovalente Bindungen. D.h. zwischen 2 Atomen kann sich mehr als eine kovalente Bindung ausbilden.<div><br></div><div>Einfachbindung:</div><div>[latex]</div><div>\\schemestart&nbsp;</div><div>\\Lewis{0.2.4.6.,C} + 4\\Lewis{0.,H} \\arrow{-&gt;} \\chemfig{C(-[:0]H)(-[:90]H)(-[:180]H)(-[:270]H)} (\\ce{CH4})&nbsp;</div><div>\\schemestop&nbsp;</div><div>[/latex]</div><div>[latex]</div><div>\\schemestart&nbsp;</div><div>\\Lewis{0.24.6,O} + 2 \\Lewis{0.,H} \\arrow{-&gt;} \\chemfig{\\Lewis{13,O}(-[:201]H)(-[:338]H)} (\\ce{H2O})</div><div>\\schemestop&nbsp;</div><div>[/latex]<br></div><div>Doppelbindung:</div><div><div>[latex]</div><div>\\schemestart&nbsp;</div><div>\\Lewis{0.2.4.6.,C} + 2 \\Lewis{0.24.6,O} \\arrow{-&gt;} \\chemfig{C(=[:0]\\Lewis{17,O})(=[:180]\\Lewis{35,O})} (\\ce{CO2})</div><div>\\schemestop&nbsp;</div><div>[/latex]</div></div><div>Dreifachbindung:</div><div><div>[latex]</div><div>\\schemestart&nbsp;</div><div>\\Lewis{0.2.4.6,N} + &nbsp;\\Lewis{0.2.4.6,N}&nbsp;\\arrow{-&gt;} \\chemfig{\\Lewis{4,N}(~[:0]\\Lewis{0,N})} (\\ce{N2})</div><div>\\schemestop&nbsp;</div><div>[/latex]</div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L+`9z_1JG|",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie berechnet sich die Anzahl der Bindungselektronen?",
+                        "Die Gesamtzahl der Valenzelektronen wird so auf bindende und einsame Elektronenpaare aufgeteilt, dass jedes Atom von 8 und jedes Wasserstoffatom von 2 Elektronen umgeben ist.<div><br></div><div>[$]\\text{Anzahl der Bindungselektronen} = 2 \\cdot \\text{(Anzahl der H-Atome)} + 8 \\cdot \\text{(Anzahl der anderen Atome}) - \\text{Gesamtanzahl der Valenzelektronen(VE))}[/$]</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Cak[-S858M",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Lewis Formel hat Formaldehyd i.e.&nbsp;[latex]\\ce{H2CO}[/latex]?",
+                        "[latex]<div>\\schemestart</div><div>\\Lewis{0.,H} + \\Lewis{0.,H} + \\Lewis{0.2.4.6.,C} + \\Lewis{0.24.6,0} \\arrow{-&gt;} Anzahl der VE = 12</div><div>\\schemestop</div><div>[/latex]<br></div><div>[$]2 \\cdot 2 + 2 \\cdot 8 - 12 = 8 \\text{ Bindungselektronen} \\rightarrow 4 \\text{ Bindungen}[/$]</div><div>[latex]<div><div>\\schemestart&nbsp;</div><div>\\chemfig{C(=[:0]\\Lewis{17,O})(-[:135]H)(-[:225]H)}</div><div>\\schemestop&nbsp;</div></div><div>[/latex]</div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "MV*!W-^]2$",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": [
+                        "``"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist eine Formalladung?",
+                        "Ein Atom an dem in der Lewis Formel so viele Bindungsstriche zusammenkommen, wie nach der 8-N Regel zu erwarten ist, hat keine Formalladung. Sind es mehr Bindungsstriche, ist die Formalladung positiv; sind es weniger ist die Formalladung negativ.<div><br></div><div>Beispiel: Ammoniak</div><div>[$]\\ce{NH3}[/$]<br></div><div>[$]3 \\cdot 2 + 8 - 8 = 6 \\Rightarrow 3 \\text{ Bindungen}[/$]</div><div>[latex]</div><div>\\schemestart</div><div>\\chemfig{\\Lewis{0,N}(-[:90]H)(-[:180]H)(-[:270]H)}</div><div>\\schemestop</div><div>[/latex]<br></div><div>N: 3 Bindungen (3) =&gt; keine Formalladung</div><div>H: 1 Bindung (1) =&gt; keine Formalladung<br></div><div><br></div><div><div>Beispiel: Kohlenmonoxid</div></div><div>[$]\\ce{CO}[/$]</div>[$]16 - 10 = 6 \\Rightarrow 3 \\text{ Bindungen}[/$]<div><div>[latex]</div><div>\\schemestart</div><div>\\chemfig{\\Lewis{4,C}(~[:0]\\Lewis{0,O})}</div><div>\\schemestop</div><div>[/latex]</div></div><div>C: 3 Bindungen (4) =&gt; negative Formalladung</div><div>O: 3 Bindung (2) =&gt; positive Formalladung<br></div><div><br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "e5Zo;HqW9W",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Mesomerie?",
+                        "Als&nbsp;<b>Mesomerie</b> (auch <b>Resonanz</b> oder <b>Resonanzstruktur</b>) wird in der Chemie das Phänomen bezeichnet, dass die Bindungsverhältnisse in einem Molekül, oder mehratomigen Ion, nicht durch eine einzige Strukturformel, sondern nur durch mehrere Grenzformeln dargestellt werden können.<div><br></div><div>Keine dieser Grenzformeln beschreibt die Bindungsverhältnisse und damit die Verteilung der Elektronen in ausreichender Weise. Die tatsächliche Elektronenverteilungen im Molekül bzw. Ion liegt zwischen den von den Grenzformeln angegebenen Elektronenverteilungen. Dies wird durch den <b>Mesomeriepfeil</b> (<b>Resonanzpfeil</b>)&nbsp;[$]\\leftrightarrow[/$] symbolisiert.</div><div><br></div><div>Beispiel: Ozon ([$]\\ce{O3}[/$])</div><div>[$]24 - 18 = 6 \\rightarrow 3 \\text{ Bindungen}[/$]<br></div><div><img src=\"paste-987c83602458917eb45727df6c41e86687e34231.jpg\"><br></div><div><br></div><div>[latex]<div><div>\\schemestart&nbsp;</div><div>\\chemfig{\\Lewis{3,O}(=[:211]\\Lewis{46,O})(-[:328]\\Lewis{157,O})}\\arrow{&lt;-&gt;}</div>\\chemfig{\\Lewis{1,O}(-[:211]\\Lewis{357,O})(=[:328]\\Lewis{06,O})}<div>\\schemestop&nbsp;</div></div><div>[/latex]</div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "D(L[I:mj$.",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie ist die räumliche Anordnung der Atomkerne bei mesomeren Grenzformeln?",
+                        "Für alle mesomere Grenzformeln muss die räumliche Anordnung der Atomkerne die gleich sein. Grenzformeln unterscheiden sich nur in der Verteilung von Elektronen.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "m;1FDgZEun",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Formalladung dürfen zwei aneinander gebundene Atome haben?",
+                        "Zwei aneinander gebundene Atome sollen keine Formalladungen mit gleichen Vorzeichen tragen. Grenzformeln die dieser Regel widersprechen sind nicht zu berücksichtigen.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "QekTVO<93B",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was sind stabile Grenzformeln?",
+                        "Grenzformalen mit der kleinsten Anzahl an Formalladungen und mit den kleinsten Beträgen sind am stabilsten. Am begünstigten sind Grenzformeln ohne Formalladungen.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "c@bD`!#zJ@",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sind die Formalladungen verteilt bei stabileren Grenzformeln?",
+                        "Bei den stabilieren Grenzformeln entspricht die Verteilung der Formalladungen den Elektronegativitäten der Atome. Das elektronegativste Atom sollte möglichst keine positive Formalladung tragen.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "h<=j7`t12]",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Zwischen welchen Atomen besteht eine reine Ionenbindung?",
+                        "Eine reine Ionenbindung besteht zwsichen einem Metall mit niedriger Ionisierungsenergie (z.B. Cs) und einem Nichtmetall mit hoher Tendenz zur Elektronenaufnahme (z.B. F).",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "g+cM~dY7=l",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Zwischen welchen Atomen besteht eine reine kovalente Bindung?",
+                        "Eine reine kovalente Bindung tritt nur zwischen zwei gleichen Nicht-Metall Atomen auf (z.B. F).",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "x3o]@o[@NP",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht der Übergang zwischen Ionenbindung und kovalenter Bindung aus?",
+                        "<img src=\"paste-c19bcea5944a99c09dd09a5de39426cb74c13692.jpg\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "BPF7aoQg@+",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist das elektrische Dipolmoment?",
+                        "Das <b>elektrische Dipolmoment</b>&nbsp;[latex]\\vec{p}[/latex]&nbsp;charakterisiert eine räumliche Ladungstrennung. Hat man in einem Körper, z.&nbsp;B. einem Molekül, an unterschiedlichen Orten eine elektrische Ladung unterschiedlichen Vorzeichens, so dass der Schwerpunkt der negativen Ladungen (Elektronen) und der Schwerpunkt der positiven Ladungen (Atomkerne) nicht zusammenfallen, dann besitzt dieser Körper ein elektrisches Dipolmoment.",
+                        "Wikipedia Elektrisches Dipolmoment"
+                    ],
+                    "flags": 0,
+                    "guid": "I-s@;maIm3",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welchen Einfluss hat die Elektronegativität bei einer kovalenten Bindung?",
+                        "<div>Die Elektronegativität bei einer kovalenten Bindung führt zu einem Dipol. (Zwei Pole wie bei ein Magnet)</div><div>Dieser Dipol wird mit einem&nbsp;[$]\\delta +[/$](positive Seite) und&nbsp;[$]\\delta -[/$](negative Seite) dargestellt.<br><br></div><div>Beispiel:&nbsp;[latex]\\ce{Br - CL}[/latex]</div><div>In der folgenden Tabelle sieht man die Elektronegativität der Elemente.</div><div><img src=\"paste-e98832235dadc63c942048166a82ad1ec81a0dbd.jpg\"><br></div><div>Dabei hat Brom eine Elektronegativität von&nbsp;[$]\\chi_{Br} = 2,96[/$] und Chlor von&nbsp;[$]\\chi_{CL} = 3,16[/$].</div><div>Da [$]\\chi_{Br} &lt; \\chi_{CL}&nbsp;[/$] ist, wird das kovalente Elektron stärker zu Chlor angezogen, damit entsteht das Dipol</div><div>[latex]</div><div><div>\\chemfig{Br&gt;CL}</div></div><div>[/latex]&nbsp;&nbsp;&nbsp;</div><div>oder auch</div><div>[latex]</div><div>\\ce{Br^{\\delta +} - CL^{\\delta -}}[/latex]</div>",
+                        "<div>Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16<br></div>Wikipedia Elektronegativität"
+                    ],
+                    "flags": 0,
+                    "guid": "v>#|iOMaRA",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Warum ist Wasser ein Dipol?",
+                        "Wasser ist ein Dipol aufgrund der Elektronegativität.<div><img src=\"paste-fb79ba539f370f618047b5b6bebf8e37ace85daa.jpg\"><br></div><div>Sauerstoff hat eine höhere Elektronegativität als Wasserstoff und zieht damit die Elektronen stärker an, es kommt zu einen Ungleichgewicht der Ladung und es entsteht das Dipol.</div><div><img src=\"paste-9f9c9f67f67986d0188e70e56e74518feb736a02.jpg\"><br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "s[>]TzK(~)",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist das VSEPR Modell?",
+                        "Das VSEPR-Modell (valence shell electron pair repulsion, deutsch Valenzschalen-Elektronenpaar-Abstoßung) führt die räumliche Gestalt eines Moleküls auf die abstoßenden Kräfte zwischen den Elektronenpaaren der Valenzschale zurück.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "sg}CDRD&*B",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Für welche Moleküle gilt das VSEPR-Modell?",
+                        "Die Regeln aus dem VSEPR-Modell gelten für Moleküle des Typs&nbsp;[$]\\ce{AX_n}[/$].<div>Beispiel:&nbsp;[$]\\ce{CH_4}[/$]</div>",
+                        "Wikipedia&nbsp;VSEPR-Modell"
+                    ],
+                    "flags": 0,
+                    "guid": "e*z{aR&&Sm",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie ordnen sich die Elektronenpaare der Valenzschale des Zentralatoms (A) im VSEPR-Modell an?",
+                        "Die Elektronenpaare der Valenzschale des Zentralatoms&nbsp;(A), d.&nbsp;h. des Atoms im Zentrum des Moleküls, ordnen sich so an, dass der Abstand zwischen ihnen möglichst groß wird.",
+                        "Wikipedia&nbsp;VSEPR-Modell"
+                    ],
+                    "flags": 0,
+                    "guid": "xcQ$=A+]sL",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie ordnen sich die freien Elektronenpaare in einem Molekül vom Typ&nbsp;[$]\\ce{AX_nE_m}[/$] an?",
+                        "Die freien Elektronenpaare (hier mit&nbsp;E symbolisiert) in einem Molekül vom Typ&nbsp;[$]\\ce{AX<span style=\"font-size: 10px;\">_n</span>E<span style=\"font-size: 10px;\">_m}</span>[/$]&nbsp;beanspruchen mehr Raum als die bindenden Elektronenpaare und führen somit zu einer Vergrößerung der Winkel&nbsp;X-A-E und einer Verkleinerung der Winkel&nbsp;X-A-X.",
+                        "Wikipedia&nbsp;VSEPR-Modell"
+                    ],
+                    "flags": 0,
+                    "guid": "MSY8&KON]H",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist ein Radikales?",
+                        "Als <b>Radikale</b> bezeichnet man Atome oder Moleküle mit mindestens einem ungepaarten Valenzelektron, die meist besonders reaktionsfreudig sind.",
+                        "Wikipedia Radikale (Chemie)"
+                    ],
+                    "flags": 0,
+                    "guid": "AI@lX31=i[",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie werden Radikale dargestellt?",
+                        "Radikale werden mit einem „Punkt“ dargestellt, zum Beispiel Stickstoffmonoxid ([$]\\ce{N\\lewis{1.,O}}[/$]), der das freie Elektron symbolisiert.",
+                        "Wikipedia&nbsp;Radikale (Chemie)"
+                    ],
+                    "flags": 0,
+                    "guid": "u2P]iOyFds",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie heißen Radikale wenn sie mehrere ungepaare Elektronen besitzen?",
+                        "Enthält ein Radikal mehrere ungepaarte Elektronen, spricht man von <b>Diradikal</b> (auch <b>Biradikal</b>), <b>Triradikal</b> usw..",
+                        "Wikipedia&nbsp;Radikale (Chemie)"
+                    ],
+                    "flags": 0,
+                    "guid": "o%AywiNa?G",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wo spielen Radikale eine wichtige Rolle?",
+                        "Radikale spielen eine wichtige Rolle bei bestimmten Oxidationsprozessen, bei Kettenpolymerisationen und bei manchen Substitutionsreaktionen.",
+                        "Wikipedia&nbsp;Radikale (Chemie)"
+                    ],
+                    "flags": 0,
+                    "guid": "F}|{b3$c.O",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wodurch entstehen Radikale?",
+                        "Radikale bilden sich durch:<div>-&nbsp;Hitze (thermolytische Bindungsspaltung)&nbsp;</div><div>- UV-Strahlung, die die homolytische Spaltung einer kovalenten Bindung bewirkt (Photolyse)&nbsp;</div><div>- Röntgen- und andere ionisierende Strahlung&nbsp;</div><div>- Elektrochemisch durch Oxidation bzw. Reduktion</div>",
+                        "Radikale (Chemie)"
+                    ],
+                    "flags": 0,
+                    "guid": "y]8jQ:Dui%",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhalten sich die freie Elektronen der Radikalen in den VSEPR-Modell?",
+                        "Einzelne freie Elektronen in Radikalen nehmen weniger Raum ein als freie Elektronen<i>paare</i>.",
+                        "Wikipedia&nbsp;VSEPR-Modell"
+                    ],
+                    "flags": 0,
+                    "guid": "n|=3bbbZI5",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Auswirkung habne größere Elektronegativitätsdifferenzen zwischen A und X in den VSEPR-Modell?",
+                        "Größere Elektronegativitäts­differenzen zwischen&nbsp;A und&nbsp;X vermindern damit den Raumbedarf der entsprechenden Bindung.",
+                        "Wikipedia VSEPR-Modell"
+                    ],
+                    "flags": 0,
+                    "guid": "hF*XG=b=wm",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhalten sich Mehrfachbindungen zu Einfachbindungen bei dem VSEPR-Modell?",
+                        "Mehrfachbindungen beanspruchen mehr Raum als Einfachbindungen, wobei der Platzbedarf mit der Bindungsordnung steigt.<div><br></div><div>Für die Bestimmung der groben Molekülstruktur werden jedoch nur die Sigma-Bindungen herangezogen, d.&nbsp;h. Mehrfachbindungen werden hier wie Einfachbindungen behandelt.<br></div>",
+                        "Wikipedia VSEPR-Modell"
+                    ],
+                    "flags": 0,
+                    "guid": "k0&XnFNqx|",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist ein Ligand?",
+                        "Ein <b>Ligand</b> (lat. <i>ligare</i> = „binden“) ist in der Komplexchemie (sowie in Organometallchemie und Bioanorganik) ein Atom oder Molekül, welches sich über eine koordinative Bindung (veraltet auch „dative Bindung“) an ein zentrales Metall-Ion binden („koordinieren“) kann",
+                        "Wikipedia Ligand"
+                    ],
+                    "flags": 0,
+                    "guid": "gD;:LikFpS",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist eine koordinative Bindung?",
+                        "Eine <b>koordinative Bindung</b> (auch <b>Donator-Akzeptor-Bindung</b> oder veraltet <b>dative Bindung</b>)&nbsp;ist eine besondere Art der Bindung in der Komplexchemie. Eine solche Bindung besteht, wenn in einer Elektronenpaarbindung(Kovalente Bindung) die Bindungselektronen von nur einem der beiden Bindungspartner stammen.<div><br></div><div><img src=\"NH3-BF3-adduct-bond-lengthening-2D.png\"><br></div>",
+                        "Wikipedia Koordinative Bindung"
+                    ],
+                    "flags": 0,
+                    "guid": "tf_KydCHOO",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die&nbsp;Sterische Hinderung?",
+                        "<b>Sterische Hinderung</b> bezeichnet in der organischen Chemie den Einfluss der räumlichen Ausdehnung eines Moleküls auf den Verlauf der Reaktion.",
+                        "Wikipedia&nbsp;Sterische Hinderung"
+                    ],
+                    "flags": 0,
+                    "guid": "clOLb)kxwg",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhalten sich kleinerer Zentralatome bzw. größere negativ polarisierte Liganden?",
+                        "Kleinere Zentralatome bzw. größere negativ polarisierte Liganden bewirken eine starke sterische und elektronische Abstoßungskraft, die die eines freien Elektronenpaars übertreffen kann.",
+                        "Wikipedia&nbsp;VSEPR-Modell"
+                    ],
+                    "flags": 0,
+                    "guid": "j]xZ8$v9}{",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht das Molekül [$]\\ce{BeCl2}[/$] nach dem VESPR-Modell aus?",
+                        "Das Molekül [$]\\ce{BeCl2}[/$]&nbsp;hat eine lineare Anordnung.<br><div>[$]\\Lewis{0.4.,Be} + 2 \\Lewis{024.6, Cl} \\Rightarrow \\chemfig{Be(-[:0]\\Lewis{026,Cl})(-[:180]\\Lewis{246,Cl})}[/$]<br></div><div><img src=\"paste-574d76c98f0492768c57b6e402531f3a4a303e51.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<div>WS 15/16</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P8%-W;b]2n",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht das Molekül [$]\\ce{BF3}[/$] nach dem VESPR-Modell aus?",
+                        "Das Molekül [$]\\ce{BF3}[/$] hat eine trigonal planare Anordnung.<div>[$]\\Lewis{0.2.4., B} + 3 \\Lewis{024.6,F} \\Rightarrow \\chemfig{B(-[:60]F)(-[:180]F)(-[:300]F)}[/$]</div><div><img src=\"paste-21a9aabfb1b54ebc130491f970f4d6b9fb9e511e.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<div>WS 15/16</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "J>HG,>nL_p",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht das Molekül [$]\\ce{CH4}[/$] nach dem VESPR-Modell aus?",
+                        "Das Molekül [$]\\ce{CH4}[/$] hat 4 Bindungspaare im Tetraederwinkel ([$]109,5^o[/$]).<div>[$]\\Lewis{0.2.4.6.,C} + 4 \\Lewis{4., H}[/$]<br></div><div><img src=\"paste-bfe15251aac3f8bb9d07d5f173b939051f93740c.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<div>WS 15/16</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "AIexztU4ke",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht das Molekül [$]\\ce{NH3}[/$] nach dem VESPR-Modell aus?",
+                        "Das Molekül [$]\\ce{NH3}[/$]&nbsp;hat drei Bindungspaare und 1 freies&nbsp;[$]e^-[/$]-Paar<br><div>[$]\\Lewis{0.2.46.,N} + 3 \\Lewis{4., H}[/$]</div><div><img src=\"paste-670e564e79ebac0c19e068d0b1d7fdc7c15aa339.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<div>WS 15/16</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "J::3Z~u}Uu",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie sieht das Molekül [$]\\ce{H2O}[/$] nach dem VESPR-Modell aus?",
+                        "Das Molekül [$]\\ce{H2O}[/$] hat zwei Bindungspaare und zwei freie [$]e^-[/$]-Paare.<div>[$]\\Lewis{0.24.6,O} + 2 \\Lewis{4., H}[/$]</div><div><img src=\"paste-5586d44aeb693c7dd5f09ca5d68ce5d6dcf51d14.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<div>WS 15/16</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "LWF2w.2n^7",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Nach der Lewis-Valenz-Bindungstheorie besteht eine kovalente Bindung aus der Überlappung der Orbitale der ungepaarten Elektronen der jeweiligen Atome.</div><div>Nach dieser Theorie müsste Kohlenstoff nur 2 Bindungen eingehen (Elektronenkonfiguration:&nbsp;[$]\\ce{1s^2 2s^2 2p^1 2p^1}[/$]).</div><div>Es geht aber z.B. mit Wasserstoff 4 energetische gleiche Bindungen ein. Warum?</div>",
+                        "Es gibt eine Kombination der [$]\\ce{2s}/$] Orbitale mit dem [$]\\ce{3p}[/$] Orbitalen zu 4 gleichwertigen&nbsp;[$]\\ce{sp^3}[/$]-Hybridorbitalen.<div>Der Exponent an den Hybridorbitalen kennzeichnet die Anzahl der hybridisierten Orbitale.</div><div><img src=\"paste-38e4c9d6413817232d237562e6aaceb21a4a67c3.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger<div>Chemie für Physiker</div><div>WS 15/18</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "n|}:2/Y/yp",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist ein Hybridorbital?",
+                        "Ein <b>Hybridorbital</b> ist ein Orbital, das rechnerisch aus einer Linearkombination der Wellenfunktionen der grundlegenden Atomorbitale entsteht. Diesen Modellierungsvorgang nennt man Hybridisierung.",
+                        "Wikipedia Hybridorbitale"
+                    ],
+                    "flags": 0,
+                    "guid": "ejs=VxPR+y",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Warum gibt es Hybridorbitale?",
+                        "Die in der Quantenmechanik berechenbaren Aufenthaltswahrscheinlichkeiten der von den Elektronen besetzten Orbitale stimmen nicht mit den aufgrund chemischer Eigenschaften nachgewiesenen Formen überein.&nbsp;",
+                        "Wikipedia Hybridorbitale"
+                    ],
+                    "flags": 0,
+                    "guid": "B.d-p,Sc0e",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Nenne ein Beispiel für das Hybridorbital.",
+                        "Das Kohlenstoffatom zum Beispiel ist in der äußeren Elektronenschale mit zwei s- und zwei p-Elektronen besetzt. Dementsprechend müssten diese Orbitale bei den vier C-H-Bindungen im Methan (CH<sub>4</sub>) zu unterschiedlichen Bindungen führen. Tatsächlich jedoch sind die vier Bindungen gleichartig und nicht unterscheidbar. Dies kann man durch sp<sup>3</sup>-Hybridisierung erklären: Das doppelt besetzte, kugelförmige 2s-Orbital wird mit den hantelförmigen 2p-Orbitalen (2 einfach besetzt, eins unbesetzt) zu vier gleichen, keulenförmigen sp<sup>3</sup>-Hybridorbitalen kombiniert, die tetraedrisch im Raum ausgerichtet und mit je einem Elektron besetzt sind. Das bedeutet zwar zunächst etwas höhere Energie, ermöglicht aber gleichartige Atombindungen mit den 1s-Elektronen der vier umgebenden Wasserstoffatome, wodurch am Ende die Gesamtenergie doch abgesenkt wird.<br><img src=\"320px-Sp3-Orbital.svg.png\"><br>Das so entstandene Modell entspricht den beobachteten Eigenschaften des Methans.<br><div><br></div>",
+                        "Wikipedia Hybridorbitale"
+                    ],
+                    "flags": 0,
+                    "guid": "rCj5(0MA$U",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Molekülorbitaltheorie?",
+                        "Die <b>Molekülorbitaltheorie</b> (kurz <b>MO-Theorie</b>) ist neben der Valenzstrukturtheorie (VB-Theorie) eine von zwei komplementären Möglichkeiten, die Elektronenstruktur von Molekülen zu beschreiben.",
+                        "Wikipedia&nbsp;Molekülorbitaltheorie"
+                    ],
+                    "flags": 0,
+                    "guid": "hAO!v?Mwc2",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Kernidee der Molekülorbitaltheorie?",
+                        "Beim MO-Verfahren werden die Atomorbitale aller Atome eines Moleküls gemeinsam betrachtet und spalten sich dabei in bindende und antibindende, über das Molekül delokalisierte <i>Molekülorbitale</i> auf.",
+                        "Wikipedia&nbsp;Molekülorbitaltheorie"
+                    ],
+                    "flags": 0,
+                    "guid": "s^Z6y~L&F~",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Warum machen die zwei komplementären Möglichkeiten Molekülorbitaltheorie (MO-Theorie) und die Valenzstrukturtheorie (VB-Theorie)?",
+                        "Gesucht werden Lösungen der Schrödingergleichung eines Moleküls. Die Rechnungen sind aber wesentlich schwieriger auszuführen als bei einem isolierten Atom. Im Normalfall, wenn mehr als ein Elektron betrachtet wird, gibt es im Sinne eines Dreikörperproblems keine analytisch angebbaren exakten Lösungen. Daher müssen Näherungsmethoden herangezogen werden. Dafür eignen sich das VB- und das MO-Verfahren, die zu ähnlichen Ergebnissen führen.",
+                        "Wikipedia Molekülorbitaltheorie"
+                    ],
+                    "flags": 0,
+                    "guid": "m/tSLAhi|f",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Molekülorbitale gibt es in der Molekülorbitaltheorie?",
+                        "<div>Statt den Atom Orbitalen&nbsp;[$]s, p, d[/$] gibt es die Molekülorbitale&nbsp;[$]\\sigma, \\pi, \\delta[/$].</div>",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<div>WS 15/16</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "IKO1Z*r?RQ",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was entspricht ein Molekülorbital mathematisch?",
+                        "Mathematisch entspricht das Molekülorbital einer Wellenfunktion, die sich als Lösung der Schrödinger Gleichung für ein System mit 2 Atomkernen ergibt?",
+                        "Prof. Dr. Inez Weidinger<br>Chemie für Physiker<div>WS 15/16</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "w]HS|z+Z]}",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Prinzipien gelten für Molekülorbitale?",
+                        "Für Molekülorbitale gelten die gleichen Prinzipien wie für Atomorbitale, insbesondere das Pauli Prinzip.",
+                        "Prof. Dr. Inez Weidinger<div>Chemie für Physiker</div><div>WS 15/16</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "AD9B|l[6@&",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb1cd-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "07 Nichtmetalle",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb1d1-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "10 Kinetik",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb1d5-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "13 Organische Chemie",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb1d9-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "05 Chemische Gleichung",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb1dd-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "06 Metalle",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb1e1-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "12 Elektrochemie 2",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb1e5-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "14 Biochemie",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ba2fb1e9-4600-11e8-9afb-00c2c6f149f6",
+            "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "periodensystem_alkalimetalle.png",
+                "latex-752ccf51ef0be42644a0099346e876310df962f3.png",
+                "periodensystem_edelgase.png",
+                "paste-42f501bccdf92ac2504c1e26f2381a7fc6cee52b.jpg",
+                "periodensystem_kohlenstoffgruppe.png",
+                "periodensystem_mangangruppe.png",
+                "periodensystem_kupfergruppe.png",
+                "paste-16e03fcfc212b7b2953e7fc53c680e6fc4505e6d.jpg",
+                "paste-417cb5018e1cbf67a1ae34b75884db852f352f8f.jpg",
+                "latex-f2bba7482d46a474790c8e25b57b66ed7d43eb1b.png",
+                "periodensystem_stickstoffgruppe.png",
+                "latex-e33405eb1f0d68382ca014aaa5debeac0bf07a2d.png",
+                "periodensystem_vanadiumgruppe.png",
+                "periodensystem_cobaltgruppe.png",
+                "periodensystem_wasserstoff.png",
+                "elektronegativität.png",
+                "periodensystem_borgruppe.png",
+                "periodensystem_halogene.png",
+                "latex-56d18fe37d0a4ef803d3c18da7382c157b40696f.png",
+                "paste-6a1feebb4148f2472856c283e20d14fa298666f3.jpg",
+                "periodensystem_zinkgruppe.png",
+                "periodensystem_nickelgruppe.png",
+                "periodensystem_scandiumgruppe.png",
+                "periodensystem_erdalkalimetalle.png",
+                "latex-9b25f8e64b484493fda944d25cad453423041fe6.png",
+                "latex-174fadd07fd54c9afe288e96558c92e0c1da733a.png",
+                "periodensystem_actinoide.png",
+                "periodensystem_chalkogene.png",
+                "latex-6545e4656a6a1adc1f7bcd4c181370b487b0bdaf.png",
+                "periodensystem_lanthanoide.png",
+                "periodensystem_chromgruppe.png",
+                "latex-75f4643a6d563c953746f7f0731b27bdf4f6f8c9.png",
+                "periodensystem_titangruppe.png",
+                "latex-7aea6cb2a2e18fa8054b806a25f11d23dc42b8bf.png",
+                "latex-98dbdc64d94c46b484447cf781d1570e5cc5ac82.png",
+                "energieminimum.png",
+                "latex-829e1afa3c3f843f53f01a000ffe571d7f1785a5.png",
+                "periodensystem_eisengruppe.png",
+                "paste-2e50286f6f1be1e9e5162a70dc0584935a029d6a.jpg"
+            ],
+            "mid": "1521646860256",
+            "name": "03 Periodensystem",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Was ist der Name der roten Markierten Gruppe?</div><img src=\"periodensystem_wasserstoff.png\">",
+                        "Wasserstoffgruppe<br><br>Der Wasserstoff ist nirgendwo sinnvoll in eine Gruppe einzuordnen.&nbsp;<div>Er hat durch seinen einfachsten Atomaufbau Eigenschaften, die sich so im Periodensystem nicht wieder finden.<br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "n`7Epj-O-&",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Was ist der Name der roten Markierten Gruppe?<br></div><img src=\"periodensystem_alkalimetalle.png\">",
+                        "Alkalimetalle",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "jZweb(=kUR",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_erdalkalimetalle.png\"><br></div>",
+                        "Erdalkalimetalle",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "CkVji!@PG]",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_scandiumgruppe.png\"><br></div>",
+                        "Scandiumgruppe",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "sAoi5]!b/S",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_titangruppe.png\"><br></div>",
+                        "Titangruppe",
+                        "Prof. Dr. Inez Weidinger, Chemie für Physiker, WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "K`1T6Q8[3=",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_vanadiumgruppe.png\"><br></div>",
+                        "Vanadiumgruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "G7%KV5$xI",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_chromgruppe.png\"><br></div>",
+                        "Chromgruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "t&<wqOb@4E",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<div><img src=\"periodensystem_mangangruppe.png\"><br></div>",
+                        "Mangangruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "FV.~PJ:<jI",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_eisengruppe.png\"><br></div>",
+                        "Eisengruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rZfd=b|weQ",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_cobaltgruppe.png\"><br></div>",
+                        "Cobaltgruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "PD6`gQoPCA",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_nickelgruppe.png\"><br></div>",
+                        "Nickelgruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B,EZ^zH+7E",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Was ist der Name der roten Markierten Gruppe?<br></div><img src=\"periodensystem_kupfergruppe.png\">",
+                        "Kupfergruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "I%h=O7jbus",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_zinkgruppe.png\"><br></div>",
+                        "Zinkgruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "doNdWlVIF_",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der rot markierten Gruppe?<br><div><img src=\"periodensystem_borgruppe.png\"><br></div>",
+                        "Borgruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ESR-j:BJh*",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_kohlenstoffgruppe.png\"><br></div>",
+                        "Kohlenstoffgruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "n4HECh/*WY",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Was ist der Name der roten Markierten Gruppe?<br></div><img src=\"periodensystem_stickstoffgruppe.png\">",
+                        "Stickstoffgruppe",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "L7nutS#yaA",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_chalkogene.png\"><br></div>",
+                        "Chalkogene",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "xUg*>*$3>v",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was&nbsp;ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_halogene.png\"><br></div>",
+                        "Halogene",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "uc(6xQp0r{",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Was ist der Name der roten Markierten Gruppe?<br></div><img src=\"periodensystem_edelgase.png\">",
+                        "Edelgase",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "POb>c9l%<2",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der roten Markierten Gruppe?<br><div><img src=\"periodensystem_lanthanoide.png\"><br></div>",
+                        "Lanthanoide",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "cY=LhFKoq",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Was&nbsp;ist der Name der roten Markierten Gruppe?</div><img src=\"periodensystem_actinoide.png\">",
+                        "Actinoide",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16<div>Bild: Wikipedia Periodensystem</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P&vfn1zYc2",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhalten sich die&nbsp;Alkalimetalle chemisch?",
+                        "Als extrem elektropositive Elemente reagieren die Alkalimetalle naturgemäß heftig mit den Nichtmetallen und Molekülen, die eine polare Atombindung aufweisen.",
+                        "http://www.periodensystem-online.de/index.php?grp=1&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "y54=!@*%0n",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie unterscheidet sich die Reaktivität bei den Alkalimetallen untereinander?",
+                        "Die Reaktivität nimmt erwartungsgemäß vom Lithium zum Cäsium (Francium) stark zu; was mit dem Abstand des einzelnen Außenelektrons zum Atomkern zusammen hängt, welches ja von Lithium noch relativ am Stärksten angezogen wird.",
+                        "http://www.periodensystem-online.de/index.php?grp=1&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "P:e5m)_#Al",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich <b>Lithium</b> in Wasser?",
+                        "<b>Lithium</b> reagiert, von den Alkalimetallen,&nbsp;am wenigsten heftig mit Wasser, aus welchem es zwar lebhaft Wasserstoff entwickelt, dabei aber weder diesen entzündet, noch während der Reaktion schmilzt.",
+                        "http://www.periodensystem-online.de/index.php?grp=1&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "P2lOq7vYtW",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich <b>Lithium</b> mit <b>Luft</b>?",
+                        "<b>Lithium</b> verbrennt an der Luft - anders als die schwereren Alkalimetalle, aber wie es auch Magnesium tut - zu einem Nitrid und nicht zu einem (Per)oxid.",
+                        "http://www.periodensystem-online.de/index.php?grp=1&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "dSZG^kK&uc",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich Natrium mit Luft?",
+                        "Natrium&nbsp;verbrennt an der Luft zu einem Oxid (Natriumperoxid).",
+                        "http://www.periodensystem-online.de/index.php?grp=1&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "QR85BBM+WI",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich Natrium mit Wasser?",
+                        "Die Reaktion mit Wasser verläuft heftiger als beim Lithium, aber weniger heftig als bei den schweren Alkalimetallen: Sofort nach Kontakt mit der Wasseroberfläche schmilzt das Metall zu einer Kugel zusammen, die heftig unter Wasserstoffentwicklung abreagiert. Setzt sich diese Kugel an einem Rand fest, so kann sie den Wasserstoff auch entzünden.",
+                        "http://www.periodensystem-online.de/index.php?grp=1&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "m>%ePlYGZl",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich Kalium chemisch bei den Alkalimetallen?",
+                        "<b>Kalium</b> reagiert allgemein heftiger als Natrium und Lithium, und steht insgesamt den schweren Homologen <b>Rubidium</b> und <b>Cäsium</b> näher.",
+                        "http://www.periodensystem-online.de/index.php?grp=1&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "AUXtIj@))s",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich Kalium, Rubidium und Cäsium im Wasser?",
+                        "Die Reaktionen mit Wasser laufen stets unter Feuererscheinungen ab, im Falle von Rubidium und Cäsium explosionsartig. Beim Verbrennen an der Luft bilden alle drei Metalle Hyperoxide (MeO<sub>2</sub>, mit dem Ion [O<sub>2</sub>]<sup>-</sup> ).",
+                        "http://www.periodensystem-online.de/index.php?grp=1&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "Ez=$YyIR4M",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhalten sich die Erdalkalimetalle chemisch?",
+                        "Die Erdalkalimetalle sind wie die Alkalimetalle elektropositive Elemente, welche demgemäß bevorzugt mit Nichtmetallen und Stoffen mit polarer Atombindung reagieren, wenngleich auch weniger heftig als die Alkalimetalle. Mit weniger elektropositiven metallen und Halbmetallen werden im Falle der schweren Erdalkalimetallen Zintl-Phasen gebildet. Die Erdalkalimetalle liegen mit Ausnahme von Beryllium ausschließlich kation vor.",
+                        "http://www.periodensystem-online.de/index.php?grp=2&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "we+]VF2[T7",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhalten sich Erdalkalimetalle in Wasser?",
+                        "Während Beryllium von Wasser überhaupt nicht, und Magnesium nur sehr langsam angegriffen werden, reagiert Calcium und Strontium damit unter heftiger Wasserstoffentwicklung, Barium und Radium auch unter Feuererscheinung.",
+                        "http://www.periodensystem-online.de/index.php?grp=2&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "MJJE9_-q)O",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich Beryllium in der Gruppe der Erdalkalimetallen?",
+                        "Das Beryllium hat eine Außenseiterrolle in der Gruppe, da es in seinem Verhalten dem Aluminium stärker ähnelt.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "E1!p6(d]kW",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich Magnesium chemisch bei den Erdalkalimetallen?",
+                        "<b>Magnesium</b> steht in seinem Verhalten genau zwischen Beryllium und Calcium. Wie beim Beryllium sind auch das Sulfat und das Chromat des Magnesiums leichtlöslich. Magnesiumcarbonat zerfällt erst oberhalb etwa 350°C in Magnesiumoxid und Kohlendioxid, während Magnesiumhydroxid wie Berylliumhydroxid schwerlöslich in Wasser ist. Allerdings hat es keinen amphoter Charakter mehr; es löst sich also nur in Säuren, nicht dagegen in Laugen. Kompaktes Magnesium wird von kaltem Wasser langsam, von heißem Wasser stark unter Bildung des deutlich alkalisch reagierenden Hydroxids angegriffen. An der Luft verbrennt es nicht zum Oxid, sondern wie auch Beryllium zum Nitrid.",
+                        "http://www.periodensystem-online.de/index.php?grp=2&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "y(Bz_spH/6",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhält sich Calcium chemisch bei den Erdalkalimetallen?",
+                        "<b>Calcium</b> ist bei Weitem unedler als Magnesium und Beryllium, und leitet zu den schweren Erdalkalimetallen über. An der Luft überzieht es sich rasch mit einer weißen Oxidschicht; wird es nicht unter Luftabschluß aufbewahrt, so oxidiert nach und nach auch kompaktes Calcium vollständig. So reagiert es bereits sehr heftig mit Wasser unter Wasserstoffentwicklung und Bildung von Löschkalk (Calciumhydroxid, Ca(OH)<sub>2</sub>). Dieser ist bereits merklich mit stark alkalischer Reaktion in Wasser löslich. Das Hydroxid ist ähnlich stark basisch wie Magnesiumhydroxid, deutlich stärker basisch als Berylliumhydroxid, aber noch etwas weniger stark basisch als die Hydroxide von Strontium, Barium und Radium. Während Calciumsulfat nur mäßig löslich ist, ist das Calciumchromat noch recht leicht löslich. Calciumcarbonat spaltet erst oberhalb 550°C Kohlendioxid ab.",
+                        "http://www.periodensystem-online.de/index.php?grp=2&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "d)K%b+3|^s",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie verhalten sich Strontium, Barium und Radium chemisch bei den Erdalkalimetallen?",
+                        "<b>Strontium</b>, <b>Barium</b> und <b>Radium</b> sind sich chemisch recht ähnlich. Ihre Reaktionen mit Wasser oder Nichtmetallen verläufen von Strontium zum Radium hin mit zunehmender Heftigkeit, und alle diese Metalle überziehen sich an der Luft augenblicklich mit dunklen Nitrid-Oxid-Schichten. Typisch für diese drei Metalle ist die Unlöslichkeit ihrer Sulfate und Chromate, während ihre Hydroxide im Falle von Strontium mäßig, im Falle von Barium und Radium gut löslich sind. Sie sind in wässriger Lösung als starke Basen vollständig dissoziiert. Die Carbonate zerfallen erst bei sehr hohen Temperaturen zu Oxid und Kohlendioxid (SrCO<sub>3</sub> &gt;850°C, BaCO<sub>3</sub> &gt;1250°C).",
+                        "http://www.periodensystem-online.de/index.php?grp=2&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "noMqo5%|rZ",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie einheitlich ist die Gruppe der Erdalkalimetallen?",
+                        "Die Erdalkalimetalle stellen eine insgesamt betrachtet, einheitliche Gruppe von Elementen dar, wobei aber die Startglieder bereits deutliche Abweichungen in ihrem Verhalten gegenüber dem Vergleich ihrer schweren Homologen zeigen. Sie sind sich untereinander ähnlicher als es sich die Elemente der Borgruppe sind, jedoch heterogener als die Alkalimetalle untereinander.",
+                        "http://www.periodensystem-online.de/index.php?grp=2&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "Cz<Oo$v#Nz",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In welcher Oxidationsstufe reagieren die Elemente der Scandiumgruppe?",
+                        "Die Elemente der Scandiumgruppe reagieren in ihren Verbindungen ausnahmslos in der Oxidationsstufe +3. Es existieren Verbindungen, in welchen scheinbar die Oxidationsstufe +2 betätigt wird. Hier liegen jedoch frei bewegliche Elektronen zwischen An- und Kationen der entsprechenden Verbindungen vor, was sich durch eine intensive Färbung sowie elektrische Leitfähigkeit ausdrückt.",
+                        "http://www.periodensystem-online.de/index.php?grp=3&amp;id;=group"
+                    ],
+                    "flags": 0,
+                    "guid": "nS8uMi-}5N",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie reagieren die Elemente der Titangruppe?",
+                        "Alle drei Metalle reagieren bevorzugt in der Oxidationsstufe +4. Von Titan sind auch Verbindungen mit den Oxidationsstufen +2 und +3 bekannt, welche jedoch starke Reduktionsmittel darstellen.",
+                        "Das Periodensystem der Elemente online"
+                    ],
+                    "flags": 0,
+                    "guid": "F]MfvL.:V7",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was passiert mit dem Atomradius innerhalb einer Gruppe?",
+                        "Der Atomradius steigt innerhalb einer Gruppe an und ist durch die Besetzung neuer Schalen begründet.<div><img src=\"paste-42f501bccdf92ac2504c1e26f2381a7fc6cee52b.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "Li~dSC}odK",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was passiert mit dem Atomradius innerhalb einer Periode?",
+                        "Der Atomradius innerhalb einer Periode nimmt ab und hängt mit der wachsenden Kernladungszahl zusammen.<div><img src=\"paste-417cb5018e1cbf67a1ae34b75884db852f352f8f.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "M/5JCxfXq]",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wovon ist die Orbitalenergie in einem Mehrelektronensystem abhängig?",
+                        "Die Orbitalenergie ist von der Hauptquantenzahl&nbsp;[$]n[/$] und der Drehimpulsquantenzahl&nbsp;[$]l[/$] abhängig.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "i4[KP{w;NQ",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche drei Gesetzmäßigkeiten gelten für die Besetzung von \"wasserstoffähnlichen\" Atomorbitale mit Elektronen?",
+                        "1. Pauli Prinzip<div>2. Hundsche Regel</div><div>3. Regel des Energieminimums</div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "F}i6VW=DQ8",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was besagt das Pauli Prinzip?",
+                        "Ein Atom darf keine Elektronen enthalten, die in allen 4 Quantenzahlen übereinstimmen.&nbsp;",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "AMy&^4%L[g",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die&nbsp;Pauling-Schreibweise (Kästchenschreibweise)?",
+                        "Die Pauling-Schreibweise (nach Linus Carl Pauling), auch bekannt als Zellenschreibweise, Kästchenschreibweise oder Kästchenmodell, ist eine einfache Art, Atomorbitale grafisch darzustellen.<br><div><br></div><div>Beispiel: Wasserstoff</div><div><img src=\"paste-2e50286f6f1be1e9e5162a70dc0584935a029d6a.jpg\"><br></div><div>Beispiel: Kohlenstoff</div><div><img src=\"paste-16e03fcfc212b7b2953e7fc53c680e6fc4505e6d.jpg\"><br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "mD(WpQ<d?P",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der ersten Hauptquantenschale?&nbsp;",
+                        "K",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "wpjX58[_nn",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der zweiten Hauptquantenschale?",
+                        "L",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "d7U!^1AUm",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der dritten Hauptquantenschale?",
+                        "M",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "s6c_f5d*G<",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der vierten Hauptquantenschale?",
+                        "N",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "NXyqFXKu*s",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der ersten Bahndrehimpuls-Quantenzahl?",
+                        "s für sharp",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "k$I7<[c/%{",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der zweiten Bahndrehimpuls-Quantenzahl?",
+                        "p für principal",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "MsTFZeoVMi",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der dritten Bahndrehimpuls-Quantenzahl?",
+                        "d für diffuse",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "s,pmK<ia$7",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist der Name der vierten Bahndrehimpuls-Quantenzahl?",
+                        "f für fundamental",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "Oo$(^bZZg]",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was besagt die Hund'sche Regel?",
+                        "Die Orbitale einer Unterschale werden so besetzt, dass die Zahl der Elektronen mit gleichen Spin maximal wird.<div><br></div><div>Beispiel: Elektronenkonfiguration C im Grundzustand</div><div><img src=\"paste-6a1feebb4148f2472856c283e20d14fa298666f3.jpg\"><br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "x%,`zk+%;L",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was besagt die Regel des Energieminimums?",
+                        "Im Grundzustand werden die wasserstoffähnlichen Orbitale der Atome in der Reihenfolge zunehmender Energie mit Elektronen besetzt.<div><br></div><div><img src=\"energieminimum.png\"><br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "nlN6sJ62oE",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was sind Rumpfelektronen?",
+                        "Elektronen, die sich in inneren voll besetzten Schalen befinden, werden Rumpfelektronen genannt.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "d=%k731MID",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was sind Valenzelektronen?",
+                        "Elektronen, die sich in der äußersten, nur teilweise besetzten, Schale befinden, werden Valenzelektronen genannt.<br><br>Sie sind für die chemische Eigenschaften des Elementes verantwortlich.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "m{Ms=y2rsi",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Faustregel gibt es zur Auf- und Abnahme von Elektronen?",
+                        "Mehr als drei Elektronen werden von einem Atom nie abgegeben oder aufgenommen.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "q;e5#olFLw",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was sind Hauptgruppen in der Chemie?",
+                        "In der Chemie bezeichnet man als <b>Hauptgruppen</b> diejenigen Gruppen des Periodensystems, die zum s- und p-Block des Periodensystems gehören.<br><br>I Alkalimetalle<div>II Erdalkalimetalle</div><div>III Borgruppe</div><div>IV Kohlenstoff-Silicium Gruppe</div><div>V Stickstoff-Phosphor Gruppe</div><div>VI Chalkogene</div><div>VII Halogene</div><div>VIII Edelgase</div>",
+                        "Wikipedia Hauptgruppe"
+                    ],
+                    "flags": 0,
+                    "guid": "N.qa>},DgF",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was sind Nebengruppen in der Chemie?",
+                        "In der Chemie bezeichnet man als <b>Nebengruppen</b> diejenigen Gruppen des Periodensystems der chemischen Elemente, die zum d- und f-Block gehören.<br><div><br></div>\n\nNebengruppe 3: Scandiumgruppe&nbsp;<div>Nebengruppe 4: Titangruppe&nbsp;</div><div>Nebengruppe 5: Vanadiumgruppe&nbsp;</div><div>Nebengruppe 6: Chromgruppe</div><div>Nebengruppe 7: Mangangruppe&nbsp;</div><div>Nebengruppe 8: Eisengruppe&nbsp;</div><div>Nebengruppe 9: Cobaltgruppe&nbsp;</div><div>Nebengruppe 10: Nickelgruppe&nbsp;</div><div>Nebengruppe 11: Kupfergruppe&nbsp;</div><div>Nebengruppe 12: Zinkgruppe\n</div>",
+                        "Wikipedia Nebengruppe"
+                    ],
+                    "flags": 0,
+                    "guid": "cD;i:[|Lqk",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Ionen von den Hauptgruppenelementen sind energetisch begünstigt?",
+                        "Ionen von den Hauptgruppenelementen mit Edelgaskonfiguration ([$]s^2[/$] oder&nbsp;[$]s^2p^6[/$]) sind energetisch begünstigt.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "M-WoRQLCuS",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": [
+                        "marked"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Ionen von den Nebengruppenelementen sind energetisch begünstigt?",
+                        "Ionen von den Nebengruppenelementen mit&nbsp;[$]ns^2np^6nd^{10} (n+1)s^2[/$] Elektronenkonfiguration ([$]n &gt;3[/$]) sind energetisch begünstigt.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "qiRx0Z;bo^",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Sind die Ionen mit der Elektronenkonfiguration&nbsp;[$]ns^2np^2nd^{10}[/$] energetisch begünstigt?",
+                        "Obwohl das [$](n+1)s[/$] Orbital energetisch unterhalb des&nbsp;[$]nd[/$] Orbitals liegt, sind Ionen mit der Elektronenkonfiguration [$]ns^2np^2nd^{10}[/$]&nbsp;energetisch begünstigt. Der Grund hierfür ist die niedrige Energiedifferenz zwischen&nbsp;[$](n+1)s[/$] und&nbsp;[$]nd[/$] Orbitalen und die Tatsache, dass die Orbitalenergie von Atomen und Ionen nicht identisch ist.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "Kg=Hw!$1gv",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Auf welcher Endung enden in der Regel Anionen?",
+                        "Anionen enden i.d.R. auf -id.<div><br></div><div>Ionen der 7. Hauptgruppe Halogenide&nbsp;</div><div>Bromid, Chlorid, Fluorid, Iodid</div><div><div>Ionen der 6. Hauptgruppe Chalkogenide</div></div><div>Oxid, Sulfid, Selenid</div><div><div>Ionen der 5. Hauptgruppe</div></div><div>Nitrid, Phosphid</div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "w6Hd4Jpvpu",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist ein Molekülion?",
+                        "Ein Molekülion ist ein mehratomiges Ion.<div>Molekülionen können Kationen oder Anionen sein.</div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "e`d)fet^rp",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Endung haben in der Regel Molekülionen?",
+                        "Molekülionen enden in der Regel mit <b>-it</b> oder <b>-at</b>.<div>Das hängt von der Anzahl der Sauerstoffatomen ab.</div><div><br></div><div>[latex]</div><div>\\begin{table}[]&nbsp;</div><div>&nbsp; \\centering&nbsp;</div><div>&nbsp; \\begin{tabular}{ll}&nbsp;</div><div>&nbsp; &nbsp; Formel &amp; Name \\\\ \\hline</div><div>&nbsp; &nbsp; $HO^-$ &amp; Hydroxid \\\\&nbsp;</div><div>&nbsp; &nbsp; $NO_2-$ &amp; Nitrit \\\\&nbsp;</div><div>&nbsp; &nbsp; $NO_3-$ &amp; Nitrat \\\\&nbsp;</div><div>&nbsp; &nbsp; $CIO_2-$ &amp; Chlorit \\\\&nbsp;</div><div>&nbsp; &nbsp; $SO_3^{2-}$ &amp; Sulfit \\\\&nbsp;</div><div>&nbsp; &nbsp; $SO_4^{2-}$ &amp; Sulfat \\\\&nbsp;</div><div>&nbsp; &nbsp; $HSO_4-$ &amp; Hydrogensulfat \\\\&nbsp;</div><div>&nbsp; &nbsp; $CO_3^{2-}$ &amp; Carbonat \\\\&nbsp;</div><div>&nbsp; &nbsp; $HCO_3-$ &amp; Hydrogencarbonat \\\\&nbsp;</div><div>&nbsp; &nbsp; $CIO_4-$ &amp; Perchlorat \\\\&nbsp;</div><div>&nbsp; &nbsp; $PO_4^{3-}$ &amp; Phosphat&nbsp;</div><div>&nbsp; \\end{tabular}&nbsp;</div><div>\\end{table}<br></div><div>[/latex]<br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "y[q-N;4:*T",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Welche Endung haben metallische Kationen?",
+                        "Metallische Kationen enden mit <b>-Ion</b>, Metall-Ion.<div><br></div><div>Beispiel:</div><div>[latex]</div><div>\\begin{table}[]&nbsp;</div><div>&nbsp; \\centering&nbsp;</div><div>&nbsp; \\begin{tabular}{lll}&nbsp;</div><div>&nbsp; &nbsp; Art &amp; Formel &amp; Name \\\\ \\hline&nbsp;</div><div>&nbsp; &nbsp; Metall &amp; $Na^+$ &amp; Natrium-Ion \\\\</div><div>&nbsp; &nbsp; Metall &amp; $Mg^{2+}$ &amp; Magnesium-Ion \\\\&nbsp;</div><div>&nbsp; &nbsp; Metall &amp; $Cu^+$* &amp; Kupfer(I) -Ion\\\\</div><div>&nbsp; &nbsp; Metall &amp; $Cu^{2+}$* &amp; Kupfer(II)-Ion \\\\&nbsp;</div><div>&nbsp; &nbsp; Nichtmetall &amp;&nbsp;$NH_4^+$ &amp; Ammonium \\\\</div><div>&nbsp; &nbsp; Nichtmetall &amp;&nbsp;$PH_4^+$ &amp; Phosphonium \\\\</div><div>&nbsp; &nbsp; Nichtmetall &amp; $OH_3^+$ &amp; Oxonium</div><div>&nbsp; \\end{tabular} &nbsp;</div><div>\\end{table}[/latex]</div><div>* I und II stehen für die Oxidationszahl.</div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "fUJ8ui31a#",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was wird in Verbindungen zu erst genannt?",
+                        "Das Kation wird in einer Verbindung immer zuerst genannt. (z.B. Natriumchlorid)",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "mN%aua6p@C",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wie werden Ionen unterschiedlicher Elemente mit gleicher Anzahl von Elektronen genannt?&nbsp;",
+                        "Ionen unterschiedlicher Elemente mit gleicher Anzahl von Elektronen werden als <b>isoelektronisch</b> bezeichnet.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "IsvCq{*LPK",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Ionisierungsenergie?",
+                        "Die Ionisierungsenergie ist die Energie, die zur Entfernung eines Elektrons notwendig ist bzw. frei wird.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "EY09nLk%ao",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Elektronenaffinität?",
+                        "Die Elektronenaffinität ist die Energie, die bei Aufnahme eines Elektrons frei wird oder benötigt wird.",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "t3r;CLi87M",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Was ist die Elektronegativität?",
+                        "Die Elektronegativität ist ein Maß für die Fähigkeit eines Atoms, Elektronen in einem Molekül an sich zu ziehen.<div><br></div><div>- EN von Fluor wird wilkürlich auf 4 gesetzt</div><div>- Für Metall, die gerne Elektronen abgeben, nimmt die Reaktivität mit kleiner werdender EN zu</div><div>- Für Nicht-Metalle, die gerne Elektronen aufnehmen, steigt die Reaktivität mit zunehmender EN</div><div><br></div><div><img src=\"elektronegativität.png\"><br></div>",
+                        "Prof. Dr. Inez Weidinger,&nbsp;Chemie für Physiker,&nbsp;WS 15/16"
+                    ],
+                    "flags": 0,
+                    "guid": "P{]r[#!ewB",
+                    "note_model_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "ba2fb058-4600-11e8-9afb-00c2c6f149f6",
+    "deck_config_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "95b692f9-27a8-11e8-b5e2-00c2c6f149f6",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "10000",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 1000
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1521646860256",
+    "name": "Chemie",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "95b694c6-27a8-11e8-b5e2-00c2c6f149f6",
+            "css": "ruby rt { \n visibility: hidden; \n} \n\nruby:hover rt { \n visibility: visible; \n}\n\n.latex {\n  zoom: 25%; \n}\n\n.card {\n font-family: Noto Sans CJK JP Regular;\n font-size: 20px;\n text-align: center;\n color: black;\n background: url(\"bg.jpg\");\n}\n\n.android .card {\n font-family: Noto Sans CJK JP Regular;\n font-size: 20px;\n text-align: center;\n color: black;\n background: url(\"bg.jpg\");\n}\n\n.frontbg {\n background-color: #6E96BB;\n border-radius: 7px;\n color: #fff;\n position: relative;\n left: 0;\n}\n\n\n\n.backbg {\n position: relative;\n top: -3px;\n background-color: #fff;\n padding: 15px;\n padding-bottom: 15px;\n padding-left: 30px;\n padding-right: 30px;\n border-radius: 0px 0px 10px 10px; \n color: #016ea6;\n font-size: 18px;\n text-align: left;\n}\n\n.android .backbg {\n position: relative;\n top: -5px;\n background-color: #fff;\n padding: 15px;\n padding-bottom: 15px;\n padding-left: 15px;\n padding-right: 15px;\n border-radius: 0px 0px 10px 10px; \n color: #016ea6;\n font-size: 20px;\n text-align: left;\n}\n\n\nhr {\n height: 2px;\n font-size: 30px;\n border: 0;\n background: #72c8e1;\n}\n\nu {\n text-decoration: none;\n border-bottom: 1px dotted;\n}\n\n.code { \n\tfont-family: monospace; \n\tbackground: gray;\n}\n\n/* This line is Added by Cloze Furigana Tools to make its various features work. CFT.260.00*/.hidden {visibility: hidden; font-size: 0;} .hidden .cloze, .cloze .hidden {visibility: visible; background-color: white;font-size: 0.8rem;} @-moz-document url-prefix() {ruby {position: relative;display: inline-block;} ruby rt {position: absolute;display: block;font-size: 0.5em;left: -50%;bottom: 115%;width: 210%;padding: 0;text-align: center;line-height:1em}} .hidden .basemaru {position:relative;} .hidden .basemaru:after {content: \"◯\"; visibility: visible; position:absolute; left:0;} .hidden .cloze .basemaru:after, .cloze .hidden .basemaru:after {visibility: hidden;} div{line-height: 2em;} .cloze_container .hidden {visibility: visible; background-color: white;}",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[]{article}\n\\usepackage{amssymb,amsmath, icomma}\n\\usepackage{chemfig}\n\\usepackage[version=4]{mhchem}\n\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\n\\begin{document}",
+            "latexsvg": false,
+            "name": "Basic with source",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<div class=frontbg>\n\n{{Front}}\n\n</div>\n\n\n\n<div class=backbg>\n\n\n<div class=defbg>\n{{Back}}\n</div>\n\n\n\n</div>\n\n<!-- This line is Added by Cloze Furigana Tools to make its various features work. CFT.260.00 --><script>var rubys = document.getElementsByTagName('ruby'); var spans = document.getElementsByTagName('span'); for (var i=0; i < rubys.length; i++) { for (var s=0; s < spans.length; s++) { if ( spans[s].className === \"cloze\" && rubys[i].contains(spans[s])) { rubys[i].className = \"cloze_container\"; break; }}} </script>",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "<div class=frontbg>\n \n{{Front}}\n \n \n</div>\n \n \n<!-- This line is Added by Cloze Furigana Tools to make its various features work. CFT.260.00 --><script>var rubys = document.getElementsByTagName('ruby'); var spans = document.getElementsByTagName('span'); for (var i=0; i < rubys.length; i++) { for (var s=0; s < spans.length; s++) { if ( spans[s].className === \"cloze\" && rubys[i].contains(spans[s])) { rubys[i].className = \"cloze_container\"; break; }}} </script>"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
