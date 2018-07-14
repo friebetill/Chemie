@@ -1,6 +1,6 @@
 # Chemie Anki deck. (CrowdAnki JSON)
 
-It contains all ideas and concepts I learn during my course "Chemistry for Physicists" as Anki cards. 
+It contains all ideas and concepts I learn during my course "Chemistry for Physicists" as Anki cards.
 
 The cards are all in German.
 
@@ -11,7 +11,7 @@ The complete subdecks have the marker [x] in the listing.
 The Anki structure is built up as follows:
 
 <details>
-  <summary>Allgemeine Chemie</summary>
+  <summary>1. Allgemeine Chemie</summary>
 
   <details>
     <summary>&nbsp;&nbsp;i. Atomaufbau</summary>
@@ -124,7 +124,7 @@ The Anki structure is built up as follows:
 </details>
 
 <details>
-  <summary>Anorganische Chemie</summary>
+  <summary>2. Anorganische Chemie</summary>
 
   <details>
     <summary>&nbsp;&nbsp;i. Chemie der Metalle</summary>
@@ -208,7 +208,7 @@ The Anki structure is built up as follows:
 </details>
 
 <details>
-  <summary>Physikalische Chemie</summary>
+  <summary>3. Physikalische Chemie</summary>
   <details>
     <summary>&nbsp;&nbsp;i. Theoretische Chemie</summary>
 
@@ -243,7 +243,7 @@ The Anki structure is built up as follows:
 </details>
 
 <details>
-  <summary>Technische Chemie</summary>
+  <summary>4. Technische Chemie</summary>
 
   <details>
     <summary>&nbsp;&nbsp;vii. Chemische Geräte</summary>
@@ -262,7 +262,7 @@ The Anki structure is built up as follows:
 </details>
 
 <details>
-  <summary>Organische Chemie</summary>
+  <summary>5. Organische Chemie</summary>
 
   <details>
     <summary>&nbsp;&nbsp;i. </summary>
@@ -314,7 +314,7 @@ The Anki structure is built up as follows:
 </details>
 
 <details>
-  <summary>Biochemie</summary>
+  <summary>6. Biochemie</summary>
   <details>
     <summary>&nbsp;&nbsp;i. Medizinische Biochemie</summary>
 
@@ -365,7 +365,7 @@ The Anki structure is built up as follows:
 </details>
 
 <details>
-  <summary>Analytische Chemie</summary>
+  <summary>7. Analytische Chemie</summary>
 
   <details>
     <summary>&nbsp;&nbsp;i. Qualitativer Analyse</summary>
