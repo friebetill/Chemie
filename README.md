@@ -1,8 +1,13 @@
 # Chemie Anki deck. (CrowdAnki JSON)
 
-It contains all ideas and concepts I learn during my course "Chemistry for Physicists" as Anki cards. The cards are all in German.
+It contains all ideas and concepts I learn during my course "Chemistry for Physicists" as Anki cards. 
+
+The cards are all in German.
 
 ## Topics
+The deck is not yet complete and will be revised several times.
+The complete subdecks have the marker [x] in the listing.
+
 The Anki structure is built up as follows:
 
 <details>
@@ -391,20 +396,19 @@ The Anki structure is built up as follows:
   </details>
 </details>
 
-
 ## How to use the deck
 1. Clone this repository
 1. Get Anki for desktop (Linux, Windows, macOS)
 1. Install the CrowdAnki Plugin:
-  1. Open Anki
-  1. Click Tools, Add-ons, Browse & Install...
-  1. Enter plugin id 1788670778
-  1. Restart Anki
+    1. Open Anki
+    1. Click Tools, Add-ons, Browse & Install...
+    1. Enter plugin id 1788670778
+    1. Restart Anki
 1. Click File, CrowdAnki: import from Disk
-  1. Select the folder of the deck that you'd like to import
+    1. Select the folder of the deck that you'd like to import
 1. Optional: create an Anki account to sync your decks, this allows you to
-  1. Learn on your phone/tablet
-  1. Learn using the web interface
+    1. Learn on your phone/tablet
+    1. Learn using the web interface
 
 ## How to help out
 
