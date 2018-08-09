@@ -16,10 +16,13 @@ The Anki structure is built up as follows:
   <details>
     <summary>&nbsp;&nbsp;i. Atomaufbau</summary>
 
-    * [ ] Thomsonsche Atommodell
-    * [ ] Rutherford Atommodell
+    * [X] Atommodelle
+    * [X] Thomsonsche Atommodell
+    * [X] Rutherfordsches Atommodell
+    * [X] Rutherford Streuexperiment
+    * [X] Bohrsche Atommodell
+    * [X] Orbitalmodell
     * [ ] Balmer-Serie
-    * [ ] Bohr'sche Postulat
     * [ ] Quantenmechanik
     * [ ] Wellenfunktion
     * [ ] Schrödinger Gleichung
@@ -58,8 +61,10 @@ The Anki structure is built up as follows:
     * [ ] Nebengruppen
     * [ ] Elektronenkonfiguration
     * [ ] Molekülion
+    * [ ] Nomenklatur
     * [ ] IUPAC
     * [ ] Trivialname
+      * Wichtigste Vertreter
     * [ ] Systematische Elementnamen
     * [ ] Aufbauprinzip
     * [ ] Edukte
@@ -78,6 +83,7 @@ The Anki structure is built up as follows:
   <details>
     <summary>&nbsp;&nbsp;iii. Chemische Bindungen</summary>
 
+    * [ ] Molekülorbitaltheorie
     * [ ] Prinzip vom kleinsten Zwang
     * [ ] Ionische Bindung
     * [ ] Isomerie
@@ -86,6 +92,9 @@ The Anki structure is built up as follows:
     * [ ] Löslichkeitsprodukt
     * [ ] Phasenübergänge
     * [ ] Gemisch
+    * [ ] Dimerisierung
+    * [ ] Elektrolyt
+    * [ ] Mesomerie
   </details>
 
   <details>
@@ -107,19 +116,97 @@ The Anki structure is built up as follows:
   <details>
     <summary>&nbsp;&nbsp;v. Säuren, Basen und Salze</summary>
 
+    * [ ] Säure-Base-Konzepte
     * [ ] Säure - Base Gleichung
+    * [ ] Säure-Base Titration
     * [ ] Autoprotolyse
     * [ ] pH-Wert
-    * [ ] Säure-Base Titration
   </details>
 
   <details>
-    <summary>&nbsp;&nbsp;vi. Redoxreaktionen</summary>
+    <summary>&nbsp;&nbsp;vi. Chemische Stoffe</summary>
+
+    * [ ] Stoff
+      * [ ] Reinstoff
+        * [ ] Verbindung
+          * [ ] Molekular
+          * [ ] Ionisch
+        * [ ] Element
+      * [ ] Gemisch
+        * [ ] Heterogenes Gemisch
+          * [ ] Schaum
+          * [ ] Hartschaum
+          * [ ] Aerosol
+            * [ ] Rauch
+            * [ ] Nebel
+          * [ ] Suspension
+          * [ ] Emulsion
+          * [ ] Gemenge
+      * [ ] Homogenes Gemisch
+        * [ ] Gasgemisch
+        * [ ] Legierung
+        * [ ] Lösung
+  </details>
+</details>
+
+<details>
+  <summary>?. Chemische Reaktionen</summary>
+
+  Kondensationsreaktion
+  Veresterung
+
+  <details>
+    <summary>&nbsp;&nbsp;i. Oxidation und Reduktion</summary>
 
     * [ ] Redox-Reaktion
     * [ ] Oxidationszahl
     * [ ] Oxidationsmittel
     * [ ] Reduktionsmittel
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Komplexbildungsreaktionen</summary>
+
+    * [ ]
+    * [ ]
+    * [ ]
+    * [ ]
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iii. Säure-Base-Reaktionen</summary>
+
+    * [ ]
+    * [ ]
+    * [ ]
+    * [ ]
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Fällung</summary>
+
+    * [ ]
+    * [ ]
+    * [ ]
+    * [ ]
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Festkörperreaktionen</summary>
+
+    * [ ]
+    * [ ]
+    * [ ]
+    * [ ]
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Photochemische Reaktionen</summary>
+
+    * [ ]
+    * [ ]
+    * [ ]
+    * [ ]
   </details>
 </details>
 
@@ -150,18 +237,48 @@ The Anki structure is built up as follows:
   <details>
     <summary>&nbsp;&nbsp;ii. Chemie der Nichtmetalle</summary>
 
-    *
+    * [ ] Gruppe 1: Wasserstoff
+      * [X] Hydrierung
+        * [X] Hydride
+      * [X] Dehydrierung
+      * [X] Wasserstoffbrückenbindung
+      * [ ] Wasser
+      * [ ] Wasserstoffperoxid
+    * [ ] Gruppe 2: Berylliumgruppe
+    * [ ] Gruppe 3: Borgruppe
+      * [ ] Borane
+      * [ ] Mehrzentrenbindung
+      * [ ] Diboran
+      * [ ] Borsäure
+    * [ ] Gruppe 4: Kohlenstoffgruppe
+      * [ ] Graphit
+      * [ ] Monolage
+      * [ ] Graphen
+      * [ ] Fullerene
+      * [ ] Diamant
+      * [ ] Silizium
+      * [ ] Silikate
+      * [ ] Silane
+    * [ ] Gruppe 5: Stickstoffgruppe
+      * [ ] Weißes Phosphor
+      * [ ] Roter Phosphor
+      * [ ] Schwarzer Phosphor
+    * [ ] Gruppe 6: Challkogene
+    * [ ] Gruppe 7: Halogene
+    * [ ] Gruppe 8: Edelgase
   </details>
 
   <details>
-    <summary>&nbsp;&nbsp;iii. Komplexchemie, einschließlich der Bioanorganischen Chemie</summary>
+    <summary>&nbsp;&nbsp;iii. Komplexchemie</summary>
 
-    * Komplexometrie
-    * Zentralkomplex
-    * Ligand
-    * Kristallfeldtheorie
-    * Ligandenfeldtheorie
-    * 18 Elektronen Regel
+    * [ ] Komplexchemie
+    * [X] Koordinative Bindung
+    * [X] Ligand
+    * [X] Chelatkomplexe
+    * [X] 18 Elektronen Regel
+    * [X] Kristallfeldtheorie
+    * [X] Ligandenfeldtheorie
+    * [X] Wasserhärte
   </details>
 
   <details>
@@ -217,15 +334,76 @@ The Anki structure is built up as follows:
 
   <details>
     <summary>&nbsp;&nbsp;ii. Chemische Thermodynamik</summary>
+Chemie für Physiker, SS2018, TU Berlin
 
-    * Destillation
+    * [X] Thermodynamik
+      * [X] Klassische Thermodynamik
+      * [X] Statistische Thermodynamik
+    * [X] Nullter Hauptsatz der Thermodynamik
+    * [X] Erster Hauptsatz der Thermodynamik
+    * [ ] Zweite Hauptsatz der Thermodynamik
+    * [ ] Dritter Hauptsatz der Thermodynamik
+    * [ ] Thermodynamisches System
+      * [X] Abgeschlossenes System
+      * [X] Geschlossenes System
+      * [X] Offenes System
+    * [X] Wärmeenergie
+    * [ ] Energie
+      * [X] Exergie
+      * [X] Anergie
+    * [X] Zustandsgröße
+      * [ ] Extensive Zustandsgrößen
+        * [X] Innere Energie
+        * [X] Enthalpie
+        * [X] Entropie
+        * [X] Volumen
+        * [ ] Teilchenzahl
+      * [ ] Intensive Zustandsgrößen
+        * [ ] Temperatur
+        * [ ] Druck
+        * [ ] Teilchendichte
+        * [ ] Chemisches Potential
+    * [ ] Prozess
+      * [ ] Prozessgröße
+    * [ ] Zustandsänderung
+      * [ ] Isochor
+        * [ ] Gleichraumprozess
+      * [ ] Isobar
+        * [ ] Gleichdruckprozess
+      * [ ] Isotherm
+      * [ ] Isenthalp
+      * [ ] Isentrop
+      * [ ] Adiabatische Prozesse
+    * [ ] Reversible Prozess
+    * [ ] Ideales Gas
+    * [ ] Reales Gas
+      * [ ] Inversionstemperatur
+      * [ ] Drosselvorgang
+    * [ ] Kreisprozesse
+      * [ ] Carnot-Prozess
+    * [ ] Kritischer Punkt
+    * [ ] Tripelpunkt
+    * [ ] Kelvin
+    * [ ] Volumenarbeit
+    * [ ] Wärme
+    * [ ] Thermochemie
+      * [ ] Irreversible Reaktionen
+      * [ ] Freiwilligkeit von Reaktionen
+      * [ ] Die freie Reaktionsenthalphie
+    * [ ] Hess’scher Wärmesatz
+    * [ ] Gibbs-Helmholtz-Gleichung
+    * [ ] Geschwindigkeitskonstante
+    * [ ] Reaktionsgeschwindigkeit
+    * [ ] Arrheniusgraph
   </details>
 
   <details>
     <summary>&nbsp;&nbsp;iii. Kinetik</summary>
 
     * Reaktionskinetik
+    * Reaktionsraten
     * Katalysator
+    * Katalyse
     * Aktivierungsenergie
   </details>
 
@@ -246,7 +424,7 @@ The Anki structure is built up as follows:
   <summary>4. Technische Chemie</summary>
 
   <details>
-    <summary>&nbsp;&nbsp;vii. Chemische Geräte</summary>
+    <summary>&nbsp;&nbsp;i. Chemische Geräte</summary>
 
     * [ ] Umkristallisation
     * [ ] Erlenmeyerkolben
@@ -259,33 +437,96 @@ The Anki structure is built up as follows:
     * [ ] Trichter
     * [ ] Pippete
   </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Gefahrensymbole</summary>
+
+    * [ ] Gefahrensymbole
+  </details>
 </details>
 
 <details>
   <summary>5. Organische Chemie</summary>
 
-  <details>
-    <summary>&nbsp;&nbsp;i. </summary>
-
-    * Funktionelle Gruppen
-    * Derivate
-    * Farbstoff
+  * [X] Organische Chemie
+  * [X] Allgemeine Summenformel
+  * [X] Homologe Reihe
+  * Isomerie
+    * Konstitutionsisomerie
+    * Stereoisomerie
+      * Konfigurationsisomerie
+        * Enantiomerie
+        * Diasteromerie
+      * Konformationsisomerie
+    * Tautomerie
+  * Reaktionstypen
+    * Nucleophile Reaktionen
+    * Elektrophile Reaktionen
+    * Radikalische Reaktionen
+  * Derivate
+  * Aromatische Verbindungen
+    * Einfache Aromaten
+    * Kondensierte Aromaten
     * Kohlenwasserstoffe
-    * Halogenkohlenwasserstoffe sind Kohlenwasserstoffe
-    * Sauerstoff- und Hydroxyverbindungen
-      * Alkohole
-      * Aldehyde
-      * Ester
-      * Ether
-      * Ketone
-      * Carbonsäuren
-    * Stickstoffverbindungen
+    * Aromatische Ionen
+    * Benzolderivate
+    * Heteroaromaten
+    * Halogenaromaten
+  * Farbstoff
+  * Einteilung nach Kohlenstoffgerüst
+    * Acyclische Kohlenwasserstoffe
+    * Gesättigt (Alkane)
+    * Ungesättigt (Alkene und Alkine)
+    * Cyclische Kohlenwasserstoffe
+    * Heterocyclen
+    * Biochemische Verbindungen (Alkaloide, Aminosäuren, Kohlenhydrate, Proteine, Steroide, Terpene, Vitamine)
+
+  <details>
+    <summary>&nbsp;&nbsp;i. Kohlenwasserstoffe</summary>
+
+    * [X] Kohlenwasserstoffe
+    * [X] Aliphatische Kohlenwasserstoffe
+      * [X] Alkane
+      * [X] Alkene
+      * [X] Alkine
+      * [X] Alicyclische Verbindungen
+    * [X] Aromatische Kohlenwasserstoffe
+      * [X] Hückel-Regel
+      * [ ] Phenol
+      * [ ] Polyzyilische aromatische Kohlenwasserstoffe
+    * [X] Alkylgruppe
+    * [X] Cycloalkane
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Sauerstoff- und Hydroxyverbindungen</summary>
+    * [X] Alkohole
+      * [X] Hydroxilgruppe
+      * [X] Alkanole
+        * [X] Ethanol
+      * [X] Alkenole
+      * [X] Alkinole
+      * [ ] Fettalkohole
+      * [ ] Wachsalkohole
+    * [X] Carbonylgruppe
+      * [ ] Carbonsäuren
+      * [ ] Ester
+      * [ ] Aldehyde
+      * [ ] Ketone
+      * [ ] Ether
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Stickstoffverbindungen</summary>
       * Amine
       * Amide
       * Diazoniumsalze
       * Nitroverbindungen, beispielsweise TNT
       * Nitrile
-    * Schwefelverbindungen
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Schwefelverbindungen</summary>
       * Alkanthiole
       * Sulfide
       * Disulfide
@@ -295,21 +536,17 @@ The Anki structure is built up as follows:
       * Thionamide
       * Thiolester
       * Thiosäure
-    * Phosphorverbindungen
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Phosphorverbindungen</summary>
       * Phosphorsäureester
       * Phosphine, beispielsweise Triphenylphosphin
-    * Metallorganische Verbindungen, beispielsweise Ferrocen
-    * Einteilung nach Kohlenstoffgerüst
-      * Aliphatische Kohlenwasserstoffe (Aliphaten)
-      * Acyclische Kohlenwasserstoffe
-      * Gesättigt (Alkane)
-      * Ungesättigt (Alkene und Alkine)
-      * Cyclische Kohlenwasserstoffe
-      * Aromatische Kohlenwasserstoffe (Aromaten)
-      * Einfache Aromaten
-      * Kondensierte Aromaten
-      * Heterocyclen
-      * Biochemische Verbindungen (Alkaloide, Aminosäuren, Kohlenhydrate, Proteine, Steroide, Terpene, Vitamine)
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Metallorganische Verbindungen</summary>
+      * Ferrocen
   </details>
 </details>
 
@@ -318,7 +555,21 @@ The Anki structure is built up as follows:
   <details>
     <summary>&nbsp;&nbsp;i. Medizinische Biochemie</summary>
 
-    *
+    * Kohlenhydrate
+    * Lipide
+    * Nucleinsäuren
+      * Nucleoside und Nucleotide
+      * Die Raumstruktur der DNA
+      * Entdeckung der DNA
+      * RNA
+    * Proteine
+      * Aminosäure
+      * Die Primärstruktur
+      * Die Sekundärstruktur
+      * Tertiär- und Quartierstruktur
+      * Enzyme
+      * Membranproteine
+    * Biosynthese
   </details>
 
   <details>
@@ -368,7 +619,7 @@ The Anki structure is built up as follows:
   <summary>7. Analytische Chemie</summary>
 
   <details>
-    <summary>&nbsp;&nbsp;i. Qualitativer Analyse</summary>
+    <summary>&nbsp;&nbsp;i. Qualitative Analyse</summary>
 
     * Nachweisreaktionen
     * Flammenfärbung
@@ -378,11 +629,13 @@ The Anki structure is built up as follows:
   <details>
     <summary>&nbsp;&nbsp;ii. Quantitativer Analyse</summary>
 
+    * [ ] Chelatometrie
     * Photometrie
+    * Lambert-Beersche Gesetz
     * Titration (Volumetrie)
     * Gravimetrie
     * Spektroskopie
-    * Massenspektrometrie (MS)
+    * [[Massenspektrometrie]] (MS)
     * Kernresonanz-Spektroskopie (NMR)
     * Chromatographie
     * Elektroanalytische Messmethoden
@@ -418,10 +671,17 @@ You can edit the JSON directly (useful for minor fixes) or use Anki itself to ma
 
 In order to use this deck and to contribute back - please use the CrowdAnki plugin: [Stvad](https://github.com/Stvad/CrowdAnki)
 
-## Conventions
+#ions
 
 - Formulas are written in LaTex
 - Try to keep questions and answers concise
 - Don't hotlink images, add them locally instead
 
 You're welcome to use and improve this deck!
+
+Periodensystem
+s-p Hybridisierung
+Orbitale (Modelle)
+Gruppen
+  Eigenschaften
+  Kohlenstoff
