@@ -14,36 +14,7 @@ The Anki structure is built up as follows:
   <summary>1. Allgemeine Chemie</summary>
 
   <details>
-    <summary>&nbsp;&nbsp;i. Atomaufbau</summary>
-
-    * [X] Atommodelle
-    * [X] Thomsonsche Atommodell
-    * [X] Rutherfordsches Atommodell
-    * [X] Rutherford Streuexperiment
-    * [X] Bohrsche Atommodell
-    * [X] Orbitalmodell
-    * [ ] Balmer-Serie
-    * [ ] Quantenmechanik
-    * [ ] Wellenfunktion
-    * [ ] Schrödinger Gleichung
-    * [ ] Hamiltonoperator
-    * [ ] Quantenzahl
-    * [ ] Entartung (Quantenmechanik)
-    * [ ] Atomorbital
-    * [ ] Pauling-Schreibweise
-    * [ ] Hundsche Regel
-    * [ ] Regel des Energieminimums
-    * [ ] Rumpfelektronen
-    * [ ] Valenzelektronen
-    * [ ] Ionisiserungsenergie
-    * [ ] Elektronenaffinität
-    * [ ] Elektronegativität
-    * [ ] Atomgewicht
-    * [ ] Atomradius
-  </details>
-
-  <details>
-    <summary>&nbsp;&nbsp;ii. Periodensystem der Elemente</summary>
+    <summary>&nbsp;&nbsp;i. Periodensystem der Elemente</summary>
 
     * [ ] Periodensystem
     * [ ] Alkalimetalle
@@ -81,7 +52,7 @@ The Anki structure is built up as follows:
   </details>
 
   <details>
-    <summary>&nbsp;&nbsp;iii. Chemische Bindungen</summary>
+    <summary>&nbsp;&nbsp;ii. Chemische Bindungen</summary>
 
     * [ ] Molekülorbitaltheorie
     * [ ] Prinzip vom kleinsten Zwang
@@ -98,7 +69,7 @@ The Anki structure is built up as follows:
   </details>
 
   <details>
-    <summary>&nbsp;&nbsp;iv. Grundlagen der Stöchiometrie</summary>
+    <summary>&nbsp;&nbsp;iii. Grundlagen der Stöchiometrie</summary>
 
     * [ ] Gesetz der konstanten Proportionen
     * [ ] Gesetz der multiplen Proportionen
@@ -114,7 +85,7 @@ The Anki structure is built up as follows:
   </details>
 
   <details>
-    <summary>&nbsp;&nbsp;v. Säuren, Basen und Salze</summary>
+    <summary>&nbsp;&nbsp;iv. Säuren, Basen und Salze</summary>
 
     * [ ] Säure-Base-Konzepte
     * [ ] Säure - Base Gleichung
@@ -124,7 +95,7 @@ The Anki structure is built up as follows:
   </details>
 
   <details>
-    <summary>&nbsp;&nbsp;vi. Chemische Stoffe</summary>
+    <summary>&nbsp;&nbsp;v. Chemische Stoffe</summary>
 
     * [ ] Stoff
       * [ ] Reinstoff
@@ -671,7 +642,7 @@ You can edit the JSON directly (useful for minor fixes) or use Anki itself to ma
 
 In order to use this deck and to contribute back - please use the CrowdAnki plugin: [Stvad](https://github.com/Stvad/CrowdAnki)
 
-#ions
+## Conventions
 
 - Formulas are written in LaTex
 - Try to keep questions and answers concise
@@ -679,9 +650,16 @@ In order to use this deck and to contribute back - please use the CrowdAnki plug
 
 You're welcome to use and improve this deck!
 
+
+## Literatur
+* Chemie für Einsteiger, Felixberger, 2017
+
 Periodensystem
 s-p Hybridisierung
-Orbitale (Modelle)
-Gruppen
-  Eigenschaften
-  Kohlenstoff
+Orbitale (Modelle**
+
+** Offene Fragen
+* Was sind Carbonate?
+* Was ist der Unterschied zwischen Oxidationszahl und Ionisationszahl?
+* Wie funktioniert das Hybridorbital? Was sind dabei bindende und antibindende?
+* Bei der elektrochemische Spannungsreihe, woraus bestehen die einzelnen Zellen?

@@ -1,0 +1,479 @@
+* Chemie Anki deck (CrowdAnki JSON)
+It contains all the ideas and concepts I learn during my chemistry studies as Anki cards.
+I use the Spaced-Repetition learning technique because I realized from my first studies that I have forgotten a lot of my knowledge from my studies.
+I chose Anki because it is:
+- Open Source with a large community
+- Scriptable in python
+- Available on all platforms
+- Other reasons, see [[http://augmentingcognition.com/ltm.html][this]]
+
+Another important fact: All cards are in German, because German is my native language.
+
+** Topics
+The deck is not yet complete and will be revised several times.
+The complete subdecks have a marker ([X]) in the listing.
+
+The Anki structure is built up as follows:
+
+1) Allgemeine Chemie
+   1. Periodensystem der Elemente
+      - [ ] Chemisches Element
+      - [ ] Lothar Meyer
+      - [ ] Dimitri Mendelejew
+      - [ ] Elektronenkonfiguration
+      - [ ] Aufbauprinzip
+      - [ ] Hauptgruppen
+      - [ ] Nebengruppen
+      - [ ] Halbmetalle
+      - [ ] Nichtmetalle
+      - [ ] Blöcke
+        - [ ] S-Block
+        - [ ] P-Block
+        - [ ] D-Block
+        - [ ] F-Block
+      - [ ] Gruppen
+        - [ ] Alkalimetalle
+        - [ ] Erdalkalimetalle
+        - [ ] Übergangsmetalle
+        - [ ] Lanthanoide
+        - [ ] Actinoide
+        - [ ] Halogene
+        - [ ] Edelgase
+      - [ ] Mnemonics
+        - [ ] Elementsymbol zu Namen
+        - [ ] Hauptgruppen
+        - [ ] Nebengruppen
+      - [ ] Nomenklatur
+        - [ ] Systematische Elementnamen
+        - [ ] IUPAC
+        - [ ] Trivialname
+          - [ ] Wichtigste Vertreter
+   2. Nuklidkarte
+      - [ ] Nuklid
+      - [ ] Isotope
+      - [ ] Massenzahl
+      - [ ] Reinelement
+      - [ ] Mischelement
+   3. Chemische Bindungen
+      - [ ] Molekülorbitaltheorie
+      - [ ] Prinzvom kleinsten Zwang
+      - [ ] Ionische Bindung
+      - [ ] Isomerie
+      - [ ] Summenformel
+      - [ ] Dissoziation
+      - [ ] Löslichkeitsprodukt
+      - [ ] Phasenübergänge
+      - [ ] Gemisch
+      - [ ] Dimerisierung
+      - [ ] Elektrolyt
+      - [ ] Mesomerie
+   4. Grundlagen der Stöchiometrie
+      - [ ] Gesetz der konstanten Proportionen
+      - [ ] Gesetz der multiplen Proportionen
+      - [ ] Massenerhaltungssatz
+      - [ ] Teilchenzahl
+      - [ ] Stoffmenge
+      - [ ] Konzentration
+      - [ ] Molalität
+      - [ ] Molenbruch
+      - [ ] Aktivität
+      - [ ] Molare Reaktionsenthalphie
+      - [ ] Gleichgewichtskonstante
+   5. Säuren, Basen und Salze
+      - [ ] Säure-Base-Konzepte
+      - [ ] Säure - Base Gleichung
+      - [ ] Säure-Base Titration
+      - [ ] Autoprotolyse
+      - [ ] pH-Wert
+   6. Chemische Stoffe
+      - [ ] Stoff
+        - [ ] Reinstoff
+          - [ ] Verbindung
+            - [ ] Molekular
+            - [ ] Ionisch
+          - [ ] Element
+        - [ ] Gemisch
+          - [ ] Heterogenes Gemisch
+            - [ ] Schaum
+            - [ ] Hartschaum
+            - [ ] Aerosol
+              - [ ] Rauch
+              - [ ] Nebel
+            - [ ] Suspension
+            - [ ] Emulsion
+            - [ ] Gemenge
+        - [ ] Homogenes Gemisch
+          - [ ] Gasgemisch
+          - [ ] Legierung
+          - [ ] Lösung
+2) Chemische Reaktionen
+  Kondensationsreaktion
+  Veresterung
+   1. Oxidation und Reduktion
+      - [ ] Redox-Reaktion
+      - [ ] Oxidationszahl
+      - [ ] Oxidationsmittel
+      - [ ] Reduktionsmittel
+   2. Komplexbildungsreaktionen
+   3. Säure-Base-Reaktionen
+   4. Fällung
+   5. Festkörperreaktionen
+   6. Photochemische Reaktionen
+3) Anorganische Chemie
+   1. Chemie der Metalle
+      - [ ] Kristalle
+      - [ ] Kristallstruktur
+      - [ ] Kristallstrukturanalyse
+      - [ ] Kristallwasser
+      - [ ] Einkristall
+      - [ ] Kugelpackung
+      - [ ] Koordinationszahl
+      - [ ] Elektronengasmodell
+      - [ ] Duktilität
+      - [ ] Valenzband
+      - [ ] Leitungsband
+      - [ ] Unedle Metalle
+      - [ ] Elektrochemische Spannungsreihe
+      - [ ] Daniell-Element
+      - [ ] Leichtmetalle
+      - [ ] Schwermetalle
+   2. Chemder Nichtmetalle
+      - [-] Gruppe 1: Wasserstoff
+        - [X] Hydrierung
+          - [X] Hydride
+        - [X] Dehydrierung
+        - [X] Wasserstoffbrückenbindung
+        - [ ] Wasser
+        - [ ] Wasserstoffperoxid
+      - [ ] Gruppe 2: Berylliumgruppe
+      - [ ] Gruppe 3: Borgruppe
+        - [ ] Borane
+        - [ ] Mehrzentrenbindung
+        - [ ] Diboran
+        - [ ] Borsäure
+      - [ ] Gruppe 4: Kohlenstoffgruppe
+        - [ ] Graphit
+        - [ ] Monolage
+        - [ ] Graphen
+        - [ ] Fullerene
+        - [ ] Diamant
+        - [ ] Silizium
+        - [ ] Silikate
+        - [ ] Silane
+      - [ ] Gruppe 5: Stickstoffgruppe
+        - [ ] Weißes Phosphor
+        - [ ] Roter Phosphor
+        - [ ] Schwarzer Phosphor
+      - [ ] Gruppe 6: Challkogene
+      - [ ] Gruppe 7: Halogene
+      - [ ] Gruppe 8: Edelgase
+   3. Komplexchemie
+      - [ ] Komplexchemie
+      - [X] KoordinatBindung
+      - [X] Ligand
+      - [X] Chelatkomplexe
+      - [X] 18 Elektronen Regel
+      - [X] Kristallfeldtheorie
+      - [X] Ligandenfeldtheorie
+      - [X] Wasserhärte
+   4. Festkörperchemie
+   5. Kristallographie
+   6. Strukturchemie
+   7. Metallorganische Chemie
+   8. Kolloidchemie
+   9. Atmosphärenchemie
+   10. Mineralsäuren
+4) Organische Chemie
+   - [X] Organische Chemie
+   - [X] Allgemeine Summenformel
+   - [X] Homologe Reihe
+   - Isomerie
+     - Konstitutionsisomerie
+     - Stereoisomerie
+       - Konfigurationsisomerie
+         - Enantiomerie
+         - Diasteromerie
+       - Konformationsisomerie
+     - Tautomerie
+   - Reaktionstypen
+     - Nucleophile Reaktionen
+     - Elektrophile Reaktionen
+     - Radikalische Reaktionen
+   - Derivate
+   - Aromatische Verbindungen
+     - Einfache Aromaten
+     - Kondensierte Aromaten
+     - Kohlenwasserstoffe
+     - Aromatische Ionen
+     - Benzolderivate
+     - Heteroaromaten
+     - Halogenaromaten
+   - Farbstoff
+   - Einteilung nach Kohlenstoffgerüst
+     - Acyclische Kohlenwasserstoffe
+     - Gesättigt (Alkane)
+     - Ungesättigt (Alkene und Alkine)
+     - Cyclische Kohlenwasserstoffe
+     - Heterocyclen
+     - Biochemische Verbindungen (Alkaloide, Aminosäuren, Kohlenhydrate, Proteine, Steroide, Terpene, Vitamine)
+   - Kohlenwasserstoffe
+     - [X] Kohlenwasserstoffe
+     - [X] Aliphatische Kohlenwasserstoffe
+       - [X] Alkane
+       - [X] Alkene
+       - [X] Alkine
+       - [X] Alicyclische Verbindungen
+     - [-] Aromatische Kohlenwasserstoffe
+       - [X] Hückel-Regel
+       - [ ] Phenol
+       - [ ] Polyzyilische aromatische Kohlenwasserstoffe
+     - [X] Alkylgruppe
+     - [X] Cycloalkane
+   - Sauerstoff- und Hydroxyverbindungen
+     - [-] Alkohole
+       - [X] Hydroxilgruppe
+       - [X] Alkanole
+         - [X] Ethanol
+       - [X] Alkenole
+       - [X] Alkinole
+       - [ ] Fettalkohole
+       - [ ] Wachsalkohole
+     - [ ] Carbonylgruppe
+       - [ ] Carbonsäuren
+       - [ ] Ester
+       - [ ] Aldehyde
+       - [ ] Ketone
+       - [ ] Ether
+   - Stickstoffverbindungen
+     - Amine
+     - Amide
+     - Diazoniumsalze
+     - Nitroverbindungen, beispielsweise TNT
+     - Nitrile
+   - Schwefelverbindungen
+     - Alkanthiole
+     - Sulfide
+     - Disulfide
+     - Ester der Schwefelsäure
+     - Sulfone
+     - Sulfoxide
+     - Thionamide
+     - Thiolester
+     - Thiosäure
+   - Phosphorverbindungen
+     - Phosphorsäureester
+     - Phosphine, beispielsweise Triphenylphosphin
+   - Metallorganische Verbindungen
+     - Ferrocen
+5) Technische Chemie
+   1. Chemische Geräte
+      - [ ] Umkristallisation
+      - [ ] Erlenmeyerkolben
+      - [ ] Messkolben
+      - [ ] Bürette
+      - [ ] Uhrglas
+      - [ ] Magnetrührer
+      - [ ] Becherglas
+      - [ ] Messzylinder
+      - [ ] Trichter
+      - [ ] Pippete
+   2. Gefahrensymbole
+      - [ ] Gefahrensymbole
+6) Analytische Chemie
+   1. QualitatAnalyse
+      - Nachweisreaktionen
+      - Flammenfärbung
+      - Papierchromatographie
+   2. Quantitativer Analyse
+      - [ ] Chelatometrie
+      - Photometrie
+      - Lambert-Beersche Gesetz
+      - Titration (Volumetrie)
+      - Gravimetrie
+      - Spektroskopie
+      - [[Massenspektrometrie]] (MS)
+      - Kernresonanz-Spektroskop(NMR)
+      - Chromatographie
+      - Elektroanalytische Messmethoden
+      - Chemosensoren
+   3. Strukturanalytik
+      - Röntgenstrukturanalyse
+7) Grenzdisziplinen
+   - Biochemie
+     1. Medizinische Biochemie
+        - Kohlenhydrate
+        - Lipide
+        - Nucleinsäuren
+          - Nucleoside und Nucleotide
+          - DRaumstruktur der DNA
+          - Entdeckung der DNA
+          - RNA
+        - Proteine
+          - Aminosäure
+          - DPrimärstruktur
+          - DSekundärstruktur
+          - Tertiär- und Quartierstruktur
+          - Enzyme
+          - Membranproteine
+        - Biosynthese
+     2. Ökologische Biochemie
+     3. <Pflanzenbiochemie/summary>
+     4. Immunbiochemie
+     5. Neurochemie
+     6. Naturstoffchemie
+     7. Enzymologie
+     8. Signaltransduktion
+   - Kosmochemie
+   - Agrochemie
+   - Athmosphärenchemie
+   - Elektrochemie
+   - Physikalische Chemie
+     1. Theoretische Chemie
+     2. Chemische Thermodynamik
+        - [X] Thermodynamik
+          - [X] Klassische Thermodynamik
+          - [X] Statistische Thermodynamik
+        - [X] Nullter Hauptsatz der Thermodynamik
+        - [X] Erster Hauptsatz der Thermodynamik
+        - [ ] Zweite Hauptsatz der Thermodynamik
+        - [ ] Dritter Hauptsatz der Thermodynamik
+        - [X] Thermodynamisches System
+          - [X] Abgeschlossenes System
+          - [X] Geschlossenes System
+          - [X] Offenes System
+        - [X] Wärmeenergie
+        - [X] Energie
+          - [X] Exergie
+          - [X] Anergie
+        - [-] Zustandsgröße
+          - [-] ExtensZustandsgrößen
+            - [X] Innere Energie
+            - [X] Enthalpie
+            - [X] Entropie
+            - [X] Volumen
+            - [ ] Teilchenzahl
+          - [ ] IntensZustandsgrößen
+            - [ ] Temperatur
+            - [ ] Druck
+            - [ ] Teilchendichte
+            - [ ] Chemisches Potential
+        - [ ] Prozess
+          - [ ] Prozessgröße
+        - [ ] Zustandsänderung
+          - [ ] Isochor
+            - [ ] Gleichraumprozess
+          - [ ] Isobar
+            - [ ] Gleichdruckprozess
+          - [ ] Isotherm
+          - [ ] Isenthalp
+          - [ ] Isentrop
+          - [ ] Adiabatische Prozesse
+        - [ ] Reversible Prozess
+        - [ ] Ideales Gas
+        - [ ] Reales Gas
+          - [ ] Inversionstemperatur
+          - [ ] Drosselvorgang
+        - [ ] Kreisprozesse
+          - [ ] Carnot-Prozess
+        - [ ] Kritischer Punkt
+        - [ ] Tripelpunkt
+        - [ ] Kelvin
+        - [ ] Volumenarbeit
+        - [ ] Wärme
+        - [ ] Thermochemie
+          - [ ] Irreversible Reaktionen
+          - [ ] Freiwilligkevon Reaktionen
+          - [ ] Dfreie Reaktionsenthalphie
+        - [ ] Hess’scher Wärmesatz
+        - [ ] Gibbs-Helmholtz-Gleichung
+        - [ ] Geschwindigkeitskonstante
+        - [ ] Reaktionsgeschwindigkeit
+        - [ ] Arrheniusgraph
+     3. Kinetik
+        - Reaktionskinetik
+        - Reaktionsraten
+        - Katalysator
+        - Katalyse
+        - Aktivierungsenergie
+     4. Spektroskopie
+     5. Elektrochemie
+
+Incorporates some parts from shared decks provided on AnkiWeb.
+
+** How to use the deck
+1) Clone this repository
+2) Get Anki for desktop (Linux, Windows, macOS)
+3) Install the CrowdAnki Plugin:
+   1. Open Anki
+   2. Click Tools, Add-ons, Browse & Install...
+   3. Enter plugin id 1788670778
+   4. Restart Anki
+4) Click File, CrowdAnki: Import from Disk
+   1. Select the folder of the deck that you'd like to import
+5) Optional: Create an Anki account to sync your decks, this allows you to
+   1. Learn on your phone/tablet
+   2. Learn using the web interface
+
+** How to help out
+Fork this repository, and send me a pull request.
+You can edit the JSON directly (useful for minor fixes) or use Anki itself to make changes and create new cards.
+In order to use this deck and to contribute back - please use the CrowdAnki plugin: [Stvad](https://github.com/Stvad/CrowdAnki)
+
+** Conventions
+- I'm trying to follow the [[https://www.supermemo.com/en/articles/20rules][20 rules for spaced repetition]].
+- Every knowledge information has a source
+- Try to keep questions and answers concise
+- Formulas are written in LaTex
+- Don't hotlink images, add them locally instead
+You're welcome to use and improve this deck!
+
+** Literatur
+- Chemie für Einsteiger
+  - Autor: Josef K. Felixberger
+  - Verlag: Springer-Verlag
+  - Erscheinungsjahr: 2017
+  - Fortschritt [0/3]
+   - [ ] Allgemeine Chemie [1/11]
+    - [X] Elemente
+    - [ ] Atome
+    - [ ] Das Periodensystem
+    - [ ] Chemische Bindung
+    - [ ] Stöchiometrie
+    - [ ] Stoffe
+    - [ ] Trennen von Stoffgemischen
+    - [ ] Thermodynamik
+    - [ ] Kinetik
+    - [ ] Säuren und Basen
+    - [ ] Redoxreaktionen
+   - [ ] Anorganische Chemie [0/4]
+    - [ ] Nichtmetalle
+    - [ ] Hauptgruppenmetalle
+    - [ ] Nebengruppenmetalle
+    - [ ] Lathanoide und Actinoide
+   - [ ] Organische Chemie [0/5]
+    - [ ] Kohlenwasserstoffe
+    - [ ] Organische Sauerstoffverbindungen
+    - [ ] Organische Stickstoffverbindungen
+    - [ ] Organische Schwefelverbindungen
+    - [ ] Biomoleküle
+   - [ ] Polymerchemie [0/3]
+    - [ ] Polymere
+    - [ ] Polymerisation
+    - [ ] Kunststoffe
+
+** Offene Fragen
+- Was sind Carbonate?
+- Was ist der Unterschied zwischen Oxidationszahl und Ionisationszahl?
+- Wfunktioniert das Hybridorbital? Was sind dabei bindende und antibindende?
+- Bei der elektrochemische Spannungsreihe, woraus bestehen deinzelnen Zellen?
+- s-p Hybridisierung
+- Orbitale (Modelle)
+
+** Unsortiert
+- [ ] Edukte
+- [ ] Anion
+- [ ] Kation
+- [ ] Molekülion
+- [ ] Masseneinheit
+- [ ] Atommasse
+- [ ] Antoine Laurent de Lavoisier
